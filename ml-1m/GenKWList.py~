@@ -1,0 +1,11 @@
+outfile = open("kwList.txt", 'w')
+
+
+with open("movies.dat", 'r') as infile:
+    for l in infile:
+        l.rstrip('\n')
+        llist = l.split('::')
+        outfile.write(':')
+        outfile.write(llist[1])
+        outfile.write(' trailer\n')
+        

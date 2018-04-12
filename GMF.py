@@ -1,0 +1,201 @@
+
+# coding: utf-8
+
+# In[ ]:
+
+
+#GMF
+#The generalized matrix factorization introduced in Xiangnan He, Neural Collaborative Filtering
+#The GMF is one of the pretrained models we need.
+
+
+# In[ ]:
+
+
+#Performance Reference
+#8 0.64 0.36
+#16 0.69 0.40
+#32 0.71 0.43
+#64 0.7 0.43
+
+
+# In[1]:
+
+
+import tensorflow as tf
+import numpy as np
+import heapq
+import time
+from math import *
+
+
+# In[2]:
+
+
+train_data = []
+with open('train_data.txt','r') as infile:
+    for l in infile:
+        l.rstrip('\n')
+        lint = [int(x) for x in l.split(',')]
+        train_data.append(lint)
+
+
+# In[3]:
+
+
+item_of_user = [[] for i in range(6040)]
+for l in train_data:
+    u = l[0]
+    item = l[1]
+    item_of_user[u].append(item)
+
+
+# In[4]:
+
+
+test_data = []
+with open('test_data.txt','r') as infile:
+    for l in infile:
+        l.rstrip('\n')
+        lint = [int(x) for x in l.split(',')]
+        test_data.append(lint)
+
+
+# In[5]:
+
+
+negative_pair = [[] for i in range(6040)]
+with open('negative_pairs.txt','r') as infile:
+    for l in infile:
+        l.rstrip('\n')
+        u,i = (int(x) for x in l.split(','))
+        negative_pair[u].append(i)
+
+
+# In[6]:
+
+
+num_user = 6040
+num_item = 3952
+
+
+# In[7]:
+
+
+#For this task, we are performing a regression-like task, therefore the batch contains users, items and labels. 
+def get_data(negative_num):
+    batch_user, batch_item, batch_label = [], [], []
+    for u in range(num_user):
+        for it in item_of_user[u]:
+            batch_user.append(u)
+            batch_item.append(it)
+            batch_label.append(1)
+            sampled_negative = 0
+            while sampled_negative <negative_num:
+                j = np.random.randint(num_item)
+                if j in item_of_user[u]:
+                    continue
+                else:
+                    batch_user.append(u)
+                    batch_item.append(j)
+                    batch_label.append(0)
+                    sampled_negative += 1
+    
+    return np.array(batch_user), np.array(batch_item), np.array(batch_label)        
+
+
+# In[8]:
+
+
+latent_size = 32
+batch_size = 256
+learning_rate = 0.001
+regularization_rate = 1e-20
+max_epochs = 20
+negative_ratio = 4
+
+
+# In[9]:
+
+
+tf.reset_default_graph()
+gamma_u = tf.get_variable(name = 'GMF_latent_u', shape = [num_user, latent_size], initializer = tf.random_normal_initializer(stddev = 0.02))
+gamma_i = tf.get_variable(name = 'GMF_latent_i', shape = [num_item, latent_size], initializer = tf.random_normal_initializer(stddev = 0.02))
+w_gmf = tf.get_variable(name = "GMF_weight", shape = [latent_size, 1], initializer = tf.random_normal_initializer(stddev = 0.02))
+
+
+# In[10]:
+
+
+U = tf.placeholder(tf.int32, [None])
+I = tf.placeholder(tf.int32, [None])
+label = tf.placeholder(tf.int32, [None])
+
+batch_latent_u = tf.nn.embedding_lookup(gamma_u, U)
+batch_latent_i = tf.nn.embedding_lookup(gamma_i, I)
+
+merged_ui = tf.multiply(batch_latent_u, batch_latent_i)
+#print(merged_ui.shape)
+
+score = tf.reshape(tf.matmul(merged_ui, w_gmf), [-1])
+#print(score.shape)
+prediction = tf.nn.sigmoid(score)
+regularizer = tf.contrib.layers.l2_regularizer(regularization_rate)
+
+reg_term = regularizer(gamma_u) + regularizer(gamma_i)
+loss = reg_term + tf.losses.log_loss(labels = tf.cast(label, tf.float32), predictions = tf.reshape(prediction, [-1]))
+optimizer = tf.train.AdamOptimizer(learning_rate).minimize(loss)
+grad = tf.gradients(loss, [gamma_u, gamma_i, w_gmf])
+
+
+# In[11]:
+
+
+with tf.Session() as sess:
+    tf.global_variables_initializer().run()
+    best_hr = 0
+    for ep in range(max_epochs):
+        t1 = time.time()
+        eu,ei,el = get_data(negative_ratio)
+        for j in range(len(eu)//batch_size):
+            sample = np.random.randint(len(eu), size = batch_size)
+            #print(sample)
+            bu = eu[sample]
+            bi = ei[sample]
+            bl = el[sample]
+            #print(bu)
+            #print(bi)
+            #print(bl)
+            loss_value, grad_value ,_ = sess.run([loss,grad, optimizer], feed_dict = {U:bu, I:bi, label:bl}) 
+            #print(grad_value)
+    
+        t2 = time.time()
+        print("[%.1f s] After %d epochs, loss on batch is %.3f."%(t2-t1, ep, loss_value))
+        
+        hits = 0
+        tNDCG = 0
+        for u in range(num_user):
+            map_item_rating = {}
+            maxScore = sess.run(score, feed_dict = {U:np.array([u]), I:np.array([test_data[u][1]])})
+            negative_i = negative_pair[u]
+            negative_u = [u for m in range(100)]
+            negative_score = sess.run(score, feed_dict = {U:negative_u, I:negative_i})
+            map_item_rating[test_data[u][1]] = maxScore
+            for k in range(100):
+                map_item_rating[negative_i[k]] = negative_score[k]
+            ranklist = heapq.nlargest(10, map_item_rating, key = map_item_rating.get)
+            if test_data[u][1] in ranklist:
+                hits +=1
+                idx = ranklist.index(test_data[u][1])
+                tNDCG += log(2)/log(idx+2)
+        
+        hr = hits/6040
+        NDCG = tNDCG/6040
+        print("[%.1f s] After %d epochs, hit@10 = %.3f, NDCG@10 = %.3f."%(time.time()-t1, ep, hits/6040, tNDCG/6040))
+
+
+        if hr > best_hr:
+            best_hr = hr
+            saver = tf.train.Saver()
+            saver.save(sess, "GMFModel/model.ckpt", global_step = ep)
+

@@ -1,0 +1,176 @@
+
+# coding: utf-8
+
+# In[1]:
+
+
+#Bayesian Personalized Ranking, provided at Xiangnan He, Neural Collaborative Filtering as a baseline
+
+
+# In[2]:
+
+
+#For Reference: 
+#Factor = 8, HitRate = 0.63, NDCG = 0.36
+#Factor = 16, HR = 0.66, NDCG = 0.39
+#Factor = 32, HR = 0.68, NDCG = 0.41
+#Factor = 64, HR = 0.68, NDCG = 0.41-0.42
+
+
+# In[3]:
+
+
+import tensorflow as tf
+import numpy as np
+
+
+# In[4]:
+
+
+train_data = []
+with open('train_data.txt', 'r') as infile:
+    for l in infile:
+        l.rstrip('\n')
+        intl = [int(x) for x in l.split(',')]
+        train_data.append(intl)
+
+
+# In[5]:
+
+
+num_user = 6040
+num_item = np.max([u[1] for u in train_data])+1
+
+
+# In[6]:
+
+
+num_records = len(train_data)
+
+
+# In[7]:
+
+
+test_data = []
+with open('test_data.txt','r') as infile:
+    for l in infile:
+        l.rstrip('\n')
+        intl = [int(x) for x in l.split(',')]
+        test_data.append(intl)
+
+
+# In[8]:
+
+
+negative_pair = [[] for i in range(6040)]
+with open('negative_pairs.txt','r') as infile:
+    for l in infile:
+        l.rstrip('\n')
+        u,i = (int(x) for x in l.split(','))
+        negative_pair[u].append(i)
+
+
+# In[9]:
+
+
+#preprocessing the data
+item_of_user = [[] for i in range(6040)]
+for d in train_data:
+    item_of_user[d[0]].append(d[1])
+
+
+# In[10]:
+
+
+def get_batch(batch_size):
+    u_batch, i_batch, j_batch = [], [], []
+    for i in range(batch_size):
+        u = np.random.randint(0, num_user)
+        i = np.random.randint(0, len(item_of_user[u]))
+        pi = item_of_user[u][i]
+        j = np.random.randint(0, num_item)
+        while j in item_of_user[u]:
+            j = np.random.randint(0, num_item)
+        u_batch.append(u)
+        i_batch.append(i)
+        j_batch.append(j)
+    return u_batch, i_batch, j_batch
+
+
+# In[11]:
+
+
+num_epochs = 40
+batch_size = 50
+learning_rate = 0.001
+regularization_rate = 0.00000001
+latent_size = 8
+
+
+# In[12]:
+
+
+tf.reset_default_graph()
+gamma_u = tf.get_variable(name = "latent-u", shape = [num_user, latent_size], initializer = tf.truncated_normal_initializer(stddev = 0.1))
+gamma_i = tf.get_variable(name = 'latent-i', shape = [num_item, latent_size], initializer = tf.truncated_normal_initializer(stddev = 0.1))                        
+
+
+# In[13]:
+
+
+regularizer = tf.contrib.layers.l2_regularizer(regularization_rate)
+U = tf.placeholder(tf.int32, [None])
+I = tf.placeholder(tf.int32, [None])
+J = tf.placeholder(tf.int32, [None])
+latent_batch_u = tf.gather(gamma_u, U)
+latent_batch_i = tf.gather(gamma_i, I)
+latent_batch_j = tf.gather(gamma_i, J)
+pos_mark = tf.einsum('ij,ij->i', latent_batch_u, latent_batch_i)
+neg_mark = tf.einsum('ij,ij->i', latent_batch_u, latent_batch_j)
+x_uij = tf.nn.sigmoid(pos_mark-neg_mark)
+loss = regularizer(gamma_u) + regularizer(gamma_i) - tf.reduce_sum(tf.log(x_uij))
+train_optimizer = tf.train.AdamOptimizer(learning_rate).minimize(loss)
+
+
+# In[14]:
+
+
+from math import *
+
+
+# In[ ]:
+
+
+with tf.Session() as sess:
+    tf.global_variables_initializer().run()
+    for i in range(num_epochs):
+        for j in range(num_records//batch_size):
+            batch_u,batch_i, batch_j = get_batch(batch_size)
+            _, loss_value = sess.run([train_optimizer, loss], feed_dict = {U:batch_u, I:batch_i, J:batch_j})
+            if j % 500 == 0:
+                #test it using the negative pairs
+                test_u = np.array([m for m in range(num_user)])
+                test_i = np.array([test_data[m][1] for m in range(num_user)])
+                test_rating = sess.run(pos_mark, feed_dict = {U:test_u, I:test_i})
+                hits = 0
+                tNDCG = 0
+                for k in range(num_user):
+                    u_negative = np.array([k for m in range(100)])
+                    i_negative = np.array([negative_pair[k][m] for m in range(100)])
+                    negative_rating = sess.run(pos_mark, feed_dict = {U:u_negative, I:i_negative})
+                    recList = []
+                    recList.append((test_rating[k], 1))
+                    for n in negative_rating:
+                        recList.append((n,0))
+                    recList.sort()
+                    recList.reverse()
+                    position = [p[1] for p in recList].index(1)
+                    if position<10:
+                        hits+=1
+                        tNDCG += log(2)/log(position+2)
+                print("After %d epochs and %d iterations, hit@10 and NDCG@10 is %f and %f"%(i,j, hits/6040.0, tNDCG/6040.0))
+                    
+                        
+                    
+                    
+
