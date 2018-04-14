@@ -93,7 +93,7 @@
 :Beautiful Girls (1996) trailer
 :Broken Arrow (1996) trailer
 :In the Bleak Midwinter (1995) trailer
-:La Hate (Haine) (1995) trailer
+:Hate (Haine, La) (1995) trailer
 :Shopping (1994) trailer
 :Heidi Fleiss Hollywood Madam (1995) trailer
 :City Hall (1996) trailer
@@ -144,7 +144,7 @@
 :Bad Boys (1995) trailer
 :The Amazing Panda Adventure (1995) trailer
 :The Basketball Diaries (1995) trailer
-:A Awfully Big Adventuren (1995) trailer
+:Awfully Big Adventure, An (1995) trailer
 :Amateur (1994) trailer
 :Apollo 13 (1995) trailer
 :Rob Roy (1995) trailer
@@ -203,7 +203,7 @@
 :Under Siege 2 Dark Territory (1995) trailer
 :Unstrung Heroes (1995) trailer
 :Unzipped (1995) trailer
-:A Walk in the Clouds (1995) trailer
+:Walk in the Clouds, A (1995) trailer
 :Waterworld (1995) trailer
 :White Man's Burden (1995) trailer
 :Wild Bill (1995) trailer
@@ -234,7 +234,7 @@
 :French Kiss (1995) trailer
 :Forget Paris (1995) trailer
 :Far From Home The Adventures of Yellow Dog (1995) trailer
-:A Goofy Movie (1995) trailer
+:Goofy Movie, A (1995) trailer
 :Hideaway (1995) trailer
 :Fluke (1995) trailer
 :Farinelli il castrato (1994) trailer
@@ -253,11 +253,11 @@
 :The Jerky Boys (1994) trailer
 :Junior (1994) trailer
 :Just Cause (1995) trailer
-:A Kid in King Arthur's Court (1995) trailer
+:Kid in King Arthur's Court, A (1995) trailer
 :Kiss of Death (1995) trailer
 :Star Wars Episode IV - A New Hope (1977) trailer
 :Little Women (1994) trailer
-:A Little Princess (1995) trailer
+:Little Princess, A (1995) trailer
 :Ladybird Ladybird (1994) trailer
 :Enfer, L' (1994) trailer
 :Like Water for Chocolate (Como agua para chocolate) (1992) trailer
@@ -290,7 +290,7 @@
 :Outbreak (1995) trailer
 :Leon The Professional (1994) trailer
 :The Perez Family (1995) trailer
-:A Pyromaniac's Love Story (1995) trailer
+:Pyromaniac's Love Story, A (1995) trailer
 :Pulp Fiction (1994) trailer
 :Panther (1995) trailer
 :Pushing Hands (1992) trailer
@@ -379,9 +379,9 @@
 :Wolf (1994) trailer
 :Wyatt Earp (1994) trailer
 :Bad Company (1995) trailer
-:A Man of No Importance (1994) trailer
+:Man of No Importance, A (1994) trailer
 :S.F.W. (1994) trailer
-:A Low Down Dirty Shame (1994) trailer
+:Low Down Dirty Shame, A (1994) trailer
 :Boys Life (1995) trailer
 :Colonel Chabert, Le (1994) trailer
 :Faster Pussycat! Kill! Kill! (1965) trailer
@@ -422,7 +422,7 @@
 :Blue Sky (1994) trailer
 :Body Snatchers (1993) trailer
 :Boxing Helena (1993) trailer
-:A Bronx Tale (1993) trailer
+:Bronx Tale, A (1993) trailer
 :Cabin Boy (1994) trailer
 :Calendar Girl (1993) trailer
 :Carlito's Way (1993) trailer
@@ -456,7 +456,7 @@
 :The Getaway (1994) trailer
 :Getting Even with Dad (1994) trailer
 :Go Fish (1994) trailer
-:A Good Man in Africa (1994) trailer
+:Good Man in Africa, A (1994) trailer
 :Guilty as Sin (1993) trailer
 :Hard Target (1993) trailer
 :Heaven & Earth (1993) trailer
@@ -501,7 +501,7 @@
 :No Escape (1994) trailer
 :North (1994) trailer
 :Orlando (1993) trailer
-:A Perfect World (1993) trailer
+:Perfect World, A (1993) trailer
 :Philadelphia (1993) trailer
 :The Piano (1993) trailer
 :Poetic Justice (1993) trailer
@@ -512,25 +512,25 @@
 :The Remains of the Day (1993) trailer
 :Renaissance Man (1994) trailer
 :Rising Sun (1993) trailer
-:The Road to Wellville (1994) trailer
+:Road to Wellville, The (1994) trailer
 :Robocop 3 (1993) trailer
 :Robin Hood Men in Tights (1993) trailer
 :Romeo Is Bleeding (1993) trailer
 :Romper Stomper (1992) trailer
 :Ruby in Paradise (1993) trailer
 :Rudy (1993) trailer
-:The Saint of Fort Washington (1993) trailer
+:Saint of Fort Washington, The (1993) trailer
 :Savage Nights (Nuits fauves, Les) (1992) trailer
 :Schindler's List (1993) trailer
-:The Scout (1994) trailer
+:Scout, The (1994) trailer
 :Searching for Bobby Fischer (1993) trailer
 :Second Best (1994) trailer
-:The Secret Garden (1993) trailer
+:Secret Garden, The (1993) trailer
 :Serial Mom (1994) trailer
-:The Shadow (1994) trailer
+:Shadow, The (1994) trailer
 :Shadowlands (1993) trailer
 :Short Cuts (1993) trailer
-:A Simple Twist of Fate (1994) trailer
+:Simple Twist of Fate, A (1994) trailer
 :Sirens (1994) trailer
 :Six Degrees of Separation (1993) trailer
 :Sleepless in Seattle (1993) trailer
@@ -545,16 +545,16 @@
 :Terminal Velocity (1994) trailer
 :Thirty-Two Short Films About Glenn Gould (1993) trailer
 :Threesome (1994) trailer
-:The Nightmare Before Christmas (1993) trailer
-:The Three Musketeers (1993) trailer
+:Nightmare Before Christmas, The (1993) trailer
+:Three Musketeers, The (1993) trailer
 :Tombstone (1993) trailer
 :Trial by Jury (1994) trailer
 :True Romance (1993) trailer
-:The War Room (1993) trailer
+:War Room, The (1993) trailer
 :Mamma Roma (1962) trailer
-:The Pagemaster (1994) trailer
+:Pagemaster, The (1994) trailer
 :Paris, France (1993) trailer
-:The Beans of Egypt, Maine (1994) trailer
+:Beans of Egypt, Maine, The (1994) trailer
 :Killer (Bulletproof Heart) (1994) trailer
 :Welcome to the Dollhouse (1995) trailer
 :Germinal (1993) trailer
@@ -564,22 +564,22 @@
 :Kika (1993) trailer
 :Bhaji on the Beach (1993) trailer
 :Little Big League (1994) trailer
-:The Slingshot (Kdisbellan ) (1993) trailer
-:The Wedding Gift (1994) trailer
+:Slingshot, The (Kdisbellan ) (1993) trailer
+:Wedding Gift, The (1994) trailer
 :Foreign Student (1994) trailer
 :Ciao, Professore! (Io speriamo che me la cavo ) (1993) trailer
 :Spanking the Monkey (1994) trailer
-:The Little Rascals (1994) trailer
+:Little Rascals, The (1994) trailer
 :Fausto (1993) trailer
 :Andre (1994) trailer
-:The Hour of the Pig (1993) trailer
-:La Scorta (1993) trailer
+:Hour of the Pig, The (1993) trailer
+:Scorta, La (1993) trailer
 :Princess Caraboo (1994) trailer
-:The Celluloid Closet (1995) trailer
+:Celluloid Closet, The (1995) trailer
 :Metisse (Caf au Lait) (1993) trailer
 :Dear Diary (Caro Diario) (1994) trailer
 :I Don't Want to Talk About It (De eso no se habla) (1993) trailer
-:The Brady Bunch Movie (1995) trailer
+:Brady Bunch Movie, The (1995) trailer
 :Home Alone (1990) trailer
 :Ghost (1990) trailer
 :Aladdin (1992) trailer
@@ -587,16 +587,16 @@
 :Dances with Wolves (1990) trailer
 :Tough and Deadly (1995) trailer
 :Batman (1989) trailer
-:The Silence of the Lambs (1991) trailer
+:Silence of the Lambs, The (1991) trailer
 :Snow White and the Seven Dwarfs (1937) trailer
 :Beauty and the Beast (1991) trailer
 :Pinocchio (1940) trailer
 :Pretty Woman (1990) trailer
 :Window to Paris (1994) trailer
-:The Wild Bunch (1969) trailer
+:Wild Bunch, The (1969) trailer
 :Love and a .45 (1994) trailer
-:The Wooden Man's Bride (Wu Kui) (1994) trailer
-:A Great Day in Harlem (1994) trailer
+:Wooden Man's Bride, The (Wu Kui) (1994) trailer
+:Great Day in Harlem, A (1994) trailer
 :Bye Bye, Love (1995) trailer
 :Criminals (1996) trailer
 :One Fine Day (1996) trailer
@@ -606,21 +606,21 @@
 :Homeward Bound II Lost in San Francisco (1996) trailer
 :Heavy Metal (1981) trailer
 :Hellraiser Bloodline (1996) trailer
-:The Pallbearer (1996) trailer
+:Pallbearer, The (1996) trailer
 :Jane Eyre (1996) trailer
 :Loaded (1994) trailer
 :Bread and Chocolate (Pane e cioccolata) (1973) trailer
-:The Aristocats (1970) trailer
-:The Flower of My Secret (La Flor de Mi Secreto) (1995) trailer
+:Aristocats, The (1970) trailer
+:Flower of My Secret, The (La Flor de Mi Secreto) (1995) trailer
 :Two Much (1996) trailer
 :Ed (1996) trailer
 :Scream of Stone (Schrei aus Stein) (1991) trailer
 :My Favorite Season (1993) trailer
-:A Modern Affair (1995) trailer
+:Modern Affair, A (1995) trailer
 :Condition Red (1995) trailer
 :Asfour Stah (1990) trailer
-:A Thin Line Between Love and Hate (1996) trailer
-:The Last Supper (1995) trailer
+:Thin Line Between Love and Hate, A (1996) trailer
+:Last Supper, The (1995) trailer
 :Primal Fear (1996) trailer
 :Rude (1995) trailer
 :Carried Away (1996) trailer
@@ -628,7 +628,7 @@
 :Land and Freedom (Tierra y libertad) (1995) trailer
 :Denise Calls Up (1995) trailer
 :Theodore Rex (1995) trailer
-:A Family Thing (1996) trailer
+:Family Thing, A (1996) trailer
 :Frisk (1995) trailer
 :Sgt. Bilko (1996) trailer
 :Jack and Sarah (1995) trailer
@@ -662,7 +662,7 @@
 :Bloodsport 2 (1995) trailer
 :Pather Panchali (1955) trailer
 :Aparajito (1956) trailer
-:The World of Apu (Apur Sansar) (1959) trailer
+:World of Apu, The (Apur Sansar) (1959) trailer
 :Mystery Science Theater 3000 The Movie (1996) trailer
 :Tarantella (1995) trailer
 :Space Jam (1996) trailer
@@ -670,20 +670,20 @@
 :Hostile Intentions (1994) trailer
 :They Bite (1996) trailer
 :Some Folks Call It a Sling Blade (1993) trailer
-:The Run of the Country (1995) trailer
+:Run of the Country, The (1995) trailer
 :Alphaville (1965) trailer
 :Clean Slate (Coup de Torchon) (1981) trailer
 :Tigrero A Film That Was Never Made (1994) trailer
-:The Eye of Vichy (Oeil de Vichy, L') (1993) trailer
+:Eye of Vichy, The (Oeil de Vichy, L') (1993) trailer
 :Windows (1980) trailer
 :It's My Party (1995) trailer
 :Country Life (1994) trailer
 :Operation Dumbo Drop (1995) trailer
-:The Promise (Versprechen, Das) (1994) trailer
+:Promise, The (Versprechen, Das) (1994) trailer
 :Mrs. Winterbourne (1996) trailer
 :Solo (1996) trailer
 :Under the Domin Tree (Etz Hadomim Tafus) (1994) trailer
-:The Substitute (1996) trailer
+:Substitute, The (1996) trailer
 :True Crime (1995) trailer
 :Butterfly Kiss (1995) trailer
 :Feeling Minnesota (1996) trailer
@@ -693,36 +693,36 @@
 :Daens (1992) trailer
 :Faces (1968) trailer
 :Boys (1996) trailer
-:The Quest (1996) trailer
+:Quest, The (1996) trailer
 :Cosi (1996) trailer
 :Sunset Park (1996) trailer
 :Mulholland Falls (1996) trailer
-:The Truth About Cats & Dogs (1996) trailer
+:Truth About Cats & Dogs, The (1996) trailer
 :Oliver & Company (1988) trailer
 :Celtic Pride (1996) trailer
 :Flipper (1996) trailer
 :Captives (1994) trailer
 :Of Love and Shadows (1994) trailer
 :Dead Man (1995) trailer
-:The Horseman on the Roof (Hussard sur le toit, Le) (1995) trailer
+:Horseman on the Roof, The (Hussard sur le toit, Le) (1995) trailer
 :Switchblade Sisters (1975) trailer
 :Mouth to Mouth (Boca a boca) (1995) trailer
-:The Visitors (Les Visiteurs) (1993) trailer
+:Visitors, The (Les Visiteurs) (1993) trailer
 :Multiplicity (1996) trailer
 :Wallace & Gromit The Best of Aardman Animation (1996) trailer
 :Halfmoon (Paul Bowles - Halbmond) (1995) trailer
-:The Haunted World of Edward D. Wood Jr. (1995) trailer
+:Haunted World of Edward D. Wood Jr., The (1995) trailer
 :Two Friends (1986) trailer
-:The Craft (1996) trailer
-:The Great White Hype (1996) trailer
+:Craft, The (1996) trailer
+:Great White Hype, The (1996) trailer
 :Last Dance (1996) trailer
 :War Stories (1995) trailer
 :Cold Comfort Farm (1995) trailer
 :Institute Benjamenta, or This Dream People Call Human Life (1995) trailer
-:The Low Life (1994) trailer
+:Low Life, The (1994) trailer
 :Heaven's Prisoners (1996) trailer
 :Original Gangstas (1996) trailer
-:The Rock (1996) trailer
+:Rock, The (1996) trailer
 :Getting Away With Murder (1996) trailer
 :Cemetery Man (Dellamorte Dellamore) (1994) trailer
 :Twister (1996) trailer
@@ -733,33 +733,33 @@
 :Thinner (1996) trailer
 :Spy Hard (1996) trailer
 :Brothers in Trouble (1995) trailer
-:A Close Shave (1995) trailer
+:Close Shave, A (1995) trailer
 :Force of Evil (1948) trailer
-:The Stupids (1996) trailer
-:The Arrival (1996) trailer
-:The Man from Down Under (1943) trailer
+:Stupids, The (1996) trailer
+:Arrival, The (1996) trailer
+:Man from Down Under, The (1943) trailer
 :Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb (1963) trailer
 :Careful (1992) trailer
 :Vermont Is For Lovers (1992) trailer
-:A Month by the Lake (1995) trailer
+:Month by the Lake, A (1995) trailer
 :Gold Diggers The Secret of Bear Mountain (1995) trailer
 :Kim (1950) trailer
 :Carmen Miranda Bananas Is My Business (1994) trailer
 :Ashes of Time (1994) trailer
-:The Jar (Khomreh) (1992) trailer
+:Jar, The (Khomreh) (1992) trailer
 :Maya Lin A Strong Clear Vision (1994) trailer
 :Stalingrad (1993) trailer
-:The Phantom (1996) trailer
+:Phantom, The (1996) trailer
 :Striptease (1996) trailer
-:The Last of the High Kings (a.k.a. Summer Fling) (1996) trailer
+:Last of the High Kings, The (a.k.a. Summer Fling) (1996) trailer
 :Heavy (1995) trailer
 :Jack (1996) trailer
 :I Shot Andy Warhol (1996) trailer
-:The Grass Harp (1995) trailer
+:Grass Harp, The (1995) trailer
 :Someone Else's America (1995) trailer
 :Marlene Dietrich Shadow and Light (1996) trailer
 :Costa Brava (1946) trailer
-:La Vie est belle (Life is Rosey) (1987) trailer
+:Vie est belle, La (Life is Rosey) (1987) trailer
 :Quartier Mozart (1992) trailer
 :Touki Bouki (Journey of the Hyena) (1973) trailer
 :Wend Kuuni (God's Gift) (1982) trailer
@@ -770,30 +770,30 @@
 :'Til There Was You (1997) trailer
 :Independence Day (ID4) (1996) trailer
 :Stealing Beauty (1996) trailer
-:The Fan (1996) trailer
-:The Hunchback of Notre Dame (1996) trailer
-:The Cable Guy (1996) trailer
+:Fan, The (1996) trailer
+:Hunchback of Notre Dame, The (1996) trailer
+:Cable Guy, The (1996) trailer
 :Kingpin (1996) trailer
 :Eraser (1996) trailer
-:The Gate of Heavenly Peace (1995) trailer
-:The Nutty Professor (1996) trailer
+:Gate of Heavenly Peace, The (1995) trailer
+:Nutty Professor, The (1996) trailer
 :I, Worst of All (Yo, la peor de todas) (1990) trailer
 :An Unforgettable Summer (1994) trailer
-:The Last Klezmer Leopold Kozlowski, His Life and Music (1995) trailer
-:A Hungarian Fairy Tale (1987) trailer
+:Last Klezmer Leopold Kozlowski, His Life and Music, The (1995) trailer
+:Hungarian Fairy Tale, A (1987) trailer
 :My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993) trailer
 :Midnight Dancers (Sibak) (1994) trailer
 :Somebody to Love (1994) trailer
-:A Very Natural Thing (1974) trailer
-:The Old Lady Who Walked in the Sea (Vieille qui marchait dans la mer, La) (1991) trailer
+:Very Natural Thing, A (1974) trailer
+:Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991) trailer
 :Daylight (1996) trailer
-:The Frighteners (1996) trailer
+:Frighteners, The (1996) trailer
 :Lone Star (1996) trailer
 :Harriet the Spy (1996) trailer
 :Phenomenon (1996) trailer
 :Walking and Talking (1996) trailer
 :She's the One (1996) trailer
-:A Time to Kill (1996) trailer
+:Time to Kill, A (1996) trailer
 :American Buffalo (1996) trailer
 :Rendezvous in Paris (Rendez-vous de Paris, Les) (1995) trailer
 :Alaska (1996) trailer
@@ -802,22 +802,22 @@
 :Bewegte Mann, Der (1994) trailer
 :Magic Hunter (1994) trailer
 :Larger Than Life (1996) trailer
-:A Boy Called Hate (1995) trailer
+:Boy Called Hate, A (1995) trailer
 :Power 98 (1995) trailer
 :Two Deaths (1995) trailer
-:A Very Brady Sequel (1996) trailer
+:Very Brady Sequel, A (1996) trailer
 :Stefano Quantestorie (1993) trailer
-:La Death in the Garden (Mort en ce jardin) (1956) trailer
-:The Crude Oasis (1995) trailer
+:Death in the Garden (Mort en ce jardin, La) (1956) trailer
+:Crude Oasis, The (1995) trailer
 :Hedd Wyn (1992) trailer
-:La Collectionneuse (1967) trailer
+:Collectionneuse, La (1967) trailer
 :Kaspar Hauser (1993) trailer
 :Echte Kerle (1996) trailer
 :Diebinnen (1995) trailer
-:The Convent (Convento, O) (1995) trailer
-:The Adventures of Pinocchio (1996) trailer
+:Convent, The (Convento, O) (1995) trailer
+:Adventures of Pinocchio, The (1996) trailer
 :Joe's Apartment (1996) trailer
-:The First Wives Club (1996) trailer
+:First Wives Club, The (1996) trailer
 :Stonewall (1995) trailer
 :Ransom (1996) trailer
 :High School High (1996) trailer
@@ -826,32 +826,32 @@
 :Chain Reaction (1996) trailer
 :Matilda (1996) trailer
 :Emma (1996) trailer
-:The Crow City of Angels (1996) trailer
+:Crow City of Angels, The (1996) trailer
 :House Arrest (1996) trailer
 :Eyes Without a Face (1959) trailer
 :Tales from the Crypt Presents Bordello of Blood (1996) trailer
 :Lotto Land (1995) trailer
-:The Story of Xinghua (1993) trailer
-:The Day the Sun Turned Cold (Tianguo niezi) (1994) trailer
+:Story of Xinghua, The (1993) trailer
+:Day the Sun Turned Cold, The (Tianguo niezi) (1994) trailer
 :Flirt (1995) trailer
-:The Big Squeeze (1996) trailer
-:The Spitfire Grill (1996) trailer
+:Big Squeeze, The (1996) trailer
+:Spitfire Grill, The (1996) trailer
 :Escape from L.A. (1996) trailer
 :Cyclo (1995) trailer
 :Basquiat (1996) trailer
 :Tin Cup (1996) trailer
 :Dingo (1992) trailer
-:The Ballad of Narayama (Narayama Bushiko) (1958) trailer
+:Ballad of Narayama, The (Narayama Bushiko) (1958) trailer
 :Every Other Weekend (1990) trailer
 :Mille bolle blu (1993) trailer
 :Crows and Sparrows (1949) trailer
-:The Godfather (1972) trailer
-:The Hippie Revolution (1996) trailer
+:Godfather, The (1972) trailer
+:Hippie Revolution, The (1996) trailer
 :Maybe, Maybe Not (Bewegte Mann, Der) (1994) trailer
 :Supercop (1992) trailer
 :Manny & Lo (1996) trailer
 :Celestial Clockwork (1994) trailer
-:The Wife (1995) trailer
+:Wife, The (1995) trailer
 :Small Faces (1995) trailer
 :Bound (1996) trailer
 :Carpool (1996) trailer
@@ -866,10 +866,10 @@
 :Police Story 4 Project S (Chao ji ji hua) (1993) trailer
 :Girls Town (1996) trailer
 :Bye-Bye (1995) trailer
-:The Relic (1997) trailer
-:The Island of Dr. Moreau (1996) trailer
+:Relic, The (1997) trailer
+:Island of Dr. Moreau, The (1996) trailer
 :First Kid (1996) trailer
-:The Trigger Effect (1996) trailer
+:Trigger Effect, The (1996) trailer
 :Sweet Nothing (1995) trailer
 :Bogus (1996) trailer
 :Bulletproof (1996) trailer
@@ -884,28 +884,28 @@
 :Venice/Venice (1992) trailer
 :Wild Reeds (1994) trailer
 :For Whom the Bell Tolls (1943) trailer
-:The Philadelphia Story (1940) trailer
+:Philadelphia Story, The (1940) trailer
 :Singin' in the Rain (1952) trailer
-:A American in Parisn (1951) trailer
+:American in Paris, An (1951) trailer
 :Funny Face (1957) trailer
 :Breakfast at Tiffany's (1961) trailer
 :Vertigo (1958) trailer
 :Rear Window (1954) trailer
 :It Happened One Night (1934) trailer
 :Gaslight (1944) trailer
-:The Gay Divorcee (1934) trailer
+:Gay Divorcee, The (1934) trailer
 :North by Northwest (1959) trailer
-:The Apartment (1960) trailer
+:Apartment, The (1960) trailer
 :Some Like It Hot (1959) trailer
 :Charade (1963) trailer
 :Casablanca (1942) trailer
-:The Maltese Falcon (1941) trailer
+:Maltese Falcon, The (1941) trailer
 :My Fair Lady (1964) trailer
 :Sabrina (1954) trailer
 :Roman Holiday (1953) trailer
-:The Little Princess (1939) trailer
+:Little Princess, The (1939) trailer
 :Meet Me in St. Louis (1944) trailer
-:The Wizard of Oz (1939) trailer
+:Wizard of Oz, The (1939) trailer
 :Gone with the Wind (1939) trailer
 :My Favorite Year (1982) trailer
 :Sunset Blvd. (a.k.a. Sunset Boulevard) (1950) trailer
@@ -913,64 +913,64 @@
 :2001 A Space Odyssey (1968) trailer
 :Golden Earrings (1947) trailer
 :All About Eve (1950) trailer
-:The Women (1939) trailer
+:Women, The (1939) trailer
 :Rebecca (1940) trailer
 :Foreign Correspondent (1940) trailer
 :Notorious (1946) trailer
 :Spellbound (1945) trailer
-:A Affair to Remembern (1957) trailer
+:Affair to Remember, An (1957) trailer
 :To Catch a Thief (1955) trailer
 :Father of the Bride (1950) trailer
-:The Band Wagon (1953) trailer
+:Band Wagon, The (1953) trailer
 :Ninotchka (1939) trailer
 :Love in the Afternoon (1957) trailer
 :Gigi (1958) trailer
-:The Reluctant Debutante (1958) trailer
-:The Adventures of Robin Hood (1938) trailer
-:The Mark of Zorro (1940) trailer
+:Reluctant Debutante, The (1958) trailer
+:Adventures of Robin Hood, The (1938) trailer
+:Mark of Zorro, The (1940) trailer
 :Laura (1944) trailer
-:The Ghost and Mrs. Muir (1947) trailer
+:Ghost and Mrs. Muir, The (1947) trailer
 :Lost Horizon (1937) trailer
 :Top Hat (1935) trailer
 :To Be or Not to Be (1942) trailer
 :My Man Godfrey (1936) trailer
 :Giant (1956) trailer
 :East of Eden (1955) trailer
-:The Thin Man (1934) trailer
+:Thin Man, The (1934) trailer
 :His Girl Friday (1940) trailer
 :Around the World in 80 Days (1956) trailer
 :It's a Wonderful Life (1946) trailer
 :Mr. Smith Goes to Washington (1939) trailer
 :Bringing Up Baby (1938) trailer
 :Penny Serenade (1941) trailer
-:The Scarlet Letter (1926) trailer
+:Scarlet Letter, The (1926) trailer
 :Lady of Burlesque (1943) trailer
 :Of Human Bondage (1934) trailer
 :Angel on My Shoulder (1946) trailer
 :Little Lord Fauntleroy (1936) trailer
 :They Made Me a Criminal (1939) trailer
-:The Inspector General (1949) trailer
+:Inspector General, The (1949) trailer
 :Angel and the Badman (1947) trailer
-:The 39 Steps (1935) trailer
-:A Walk in the Sun (1945) trailer
-:The Outlaw (1943) trailer
+:39 Steps, The (1935) trailer
+:Walk in the Sun, A (1945) trailer
+:Outlaw, The (1943) trailer
 :Night of the Living Dead (1968) trailer
-:The African Queen (1951) trailer
+:African Queen, The (1951) trailer
 :Beat the Devil (1954) trailer
 :Cat on a Hot Tin Roof (1958) trailer
-:The Last Time I Saw Paris (1954) trailer
+:Last Time I Saw Paris, The (1954) trailer
 :Meet John Doe (1941) trailer
 :Algiers (1938) trailer
 :Something to Sing About (1937) trailer
-:A Farewell to Arms (1932) trailer
+:Farewell to Arms, A (1932) trailer
 :Moonlight Murder (1936) trailer
-:The Blue Angel (Blaue Engel, Der) (1930) trailer
+:Blue Angel, The (Blaue Engel, Der) (1930) trailer
 :Nothing Personal (1995) trailer
 :In the Line of Duty 2 (1987) trailer
 :Dangerous Ground (1997) trailer
 :Picnic (1955) trailer
 :Madagascar Skin (1995) trailer
-:The Pompatus of Love (1996) trailer
+:Pompatus of Love, The (1996) trailer
 :Small Wonders (1996) trailer
 :Fly Away Home (1996) trailer
 :Bliss (1997) trailer
@@ -978,7 +978,7 @@
 :Schlafes Bruder (Brother of Sleep) (1995) trailer
 :Maximum Risk (1996) trailer
 :Michael Collins (1996) trailer
-:The Rich Man's Wife (1996) trailer
+:Rich Man's Wife, The (1996) trailer
 :Infinity (1996) trailer
 :Big Night (1996) trailer
 :Last Man Standing (1996) trailer
@@ -986,22 +986,22 @@
 :Set It Off (1996) trailer
 :2 Days in the Valley (1996) trailer
 :Curdled (1996) trailer
-:The Associate (L'Associe)(1982) trailer
+:Associate, The (L'Associe)(1982) trailer
 :Ed's Next Move (1996) trailer
 :Extreme Measures (1996) trailer
-:The Glimmer Man (1996) trailer
+:Glimmer Man, The (1996) trailer
 :D3 The Mighty Ducks (1996) trailer
-:The Chamber (1996) trailer
-:The Apple Dumpling Gang (1975) trailer
+:Chamber, The (1996) trailer
+:Apple Dumpling Gang, The (1975) trailer
 :Davy Crockett, King of the Wild Frontier (1955) trailer
 :Escape to Witch Mountain (1975) trailer
-:The Love Bug (1969) trailer
+:Love Bug, The (1969) trailer
 :Herbie Rides Again (1974) trailer
 :Old Yeller (1957) trailer
-:The Parent Trap (1961) trailer
+:Parent Trap, The (1961) trailer
 :Pollyanna (1960) trailer
 :Homeward Bound The Incredible Journey (1993) trailer
-:The Shaggy Dog (1959) trailer
+:Shaggy Dog, The (1959) trailer
 :Swiss Family Robinson (1960) trailer
 :That Darn Cat! (1965) trailer
 :20,000 Leagues Under the Sea (1954) trailer
@@ -1009,8 +1009,8 @@
 :Angels in the Outfield (1994) trailer
 :Cinderella (1950) trailer
 :Winnie the Pooh and the Blustery Day (1968) trailer
-:The Three Caballeros (1945) trailer
-:The Sword in the Stone (1963) trailer
+:Three Caballeros, The (1945) trailer
+:Sword in the Stone, The (1963) trailer
 :So Dear to My Heart (1949) trailer
 :Robin Hood Prince of Thieves (1991) trailer
 :Mary Poppins (1964) trailer
@@ -1018,25 +1018,25 @@
 :Pete's Dragon (1977) trailer
 :Bedknobs and Broomsticks (1971) trailer
 :Alice in Wonderland (1951) trailer
-:The Fox and the Hound (1981) trailer
+:Fox and the Hound, The (1981) trailer
 :Freeway (1996) trailer
-:The Sound of Music (1965) trailer
+:Sound of Music, The (1965) trailer
 :Die Hard (1988) trailer
-:The Lawnmower Man (1992) trailer
+:Lawnmower Man, The (1992) trailer
 :Unhook the Stars (1996) trailer
 :Synthetic Pleasures (1995) trailer
-:The Secret Agent (1996) trailer
+:Secret Agent, The (1996) trailer
 :Secrets & Lies (1996) trailer
 :That Thing You Do! (1996) trailer
 :To Gillian on Her 37th Birthday (1996) trailer
 :Surviving Picasso (1996) trailer
 :Love Is All There Is (1996) trailer
 :Beautiful Thing (1996) trailer
-:The Long Kiss Goodnight (1996) trailer
-:The Ghost and the Darkness (1996) trailer
+:Long Kiss Goodnight, The (1996) trailer
+:Ghost and the Darkness, The (1996) trailer
 :Looking for Richard (1996) trailer
 :Trees Lounge (1996) trailer
-:The Proprietor (1996) trailer
+:Proprietor, The (1996) trailer
 :Normal Life (1996) trailer
 :Get on the Bus (1996) trailer
 :Shadow Conspiracy (1997) trailer
@@ -1046,28 +1046,28 @@
 :William Shakespeare's Romeo and Juliet (1996) trailer
 :Swingers (1996) trailer
 :Sleepers (1996) trailer
-:The Sunchaser (1996) trailer
+:Sunchaser, The (1996) trailer
 :Johns (1996) trailer
 :Aladdin and the King of Thieves (1996) trailer
-:The Woman in Question (1950) trailer
+:Woman in Question, The (1950) trailer
 :Shall We Dance? (1937) trailer
-:A Damsel in Distress (1937) trailer
+:Damsel in Distress, A (1937) trailer
 :Crossfire (1947) trailer
 :Murder, My Sweet (1944) trailer
 :Macao (1952) trailer
 :For the Moment (1994) trailer
 :Willy Wonka and the Chocolate Factory (1971) trailer
-:The Sexual Life of the Belgians (1994) trailer
-:The Innocents (1961) trailer
+:Sexual Life of the Belgians, The (1994) trailer
+:Innocents, The (1961) trailer
 :Sleeper (1973) trailer
 :Bananas (1971) trailer
-:A Fish Called Wanda (1988) trailer
+:Fish Called Wanda, A (1988) trailer
 :Monty Python's Life of Brian (1979) trailer
 :Victor/Victoria (1982) trailer
-:The Candidate (1972) trailer
-:The Great Race (1965) trailer
+:Candidate, The (1972) trailer
+:Great Race, The (1965) trailer
 :Bonnie and Clyde (1967) trailer
-:The Old Man and the Sea (1958) trailer
+:Old Man and the Sea, The (1958) trailer
 :Dial M for Murder (1954) trailer
 :Madame Butterfly (1995) trailer
 :Dirty Dancing (1987) trailer
@@ -1075,44 +1075,44 @@
 :Platoon (1986) trailer
 :Weekend at Bernie's (1989) trailer
 :Basic Instinct (1992) trailer
-:The Doors (1991) trailer
-:The Crying Game (1992) trailer
+:Doors, The (1991) trailer
+:Crying Game, The (1992) trailer
 :Glengarry Glen Ross (1992) trailer
 :Sophie's Choice (1982) trailer
 :E.T. the Extra-Terrestrial (1982) trailer
-:The Search for One-eye Jimmy (1996) trailer
-:A Christmas Carol (1938) trailer
+:Search for One-eye Jimmy, The (1996) trailer
+:Christmas Carol, A (1938) trailer
 :Days of Thunder (1990) trailer
 :Top Gun (1986) trailer
 :American Strays (1996) trailer
 :Rebel Without a Cause (1955) trailer
-:A Streetcar Named Desire (1951) trailer
+:Streetcar Named Desire, A (1951) trailer
 :Children of the Corn IV The Gathering (1996) trailer
-:The Leopard Son (1996) trailer
+:Leopard Son, The (1996) trailer
 :Loser (1991) trailer
 :Prerokbe Ognja (1995) trailer
 :Charm's Incidents (1996) trailer
 :Bird of Prey (1996) trailer
 :Microcosmos (Microcosmos Le peuple de l'herbe) (1996) trailer
 :Palookaville (1996) trailer
-:The Associate (1996) trailer
-:The Funeral (1996) trailer
+:Associate, The (1996) trailer
+:Funeral, The (1996) trailer
 :Sleepover (1995) trailer
-:A Single Girl (La Fille Seule) (1995) trailer
-:The Eighth Day (Le Huitime jour ) (1996) trailer
+:Single Girl, A (La Fille Seule) (1995) trailer
+:Eighth Day, The (Le Huitime jour ) (1996) trailer
 :Tashunga (1995) trailer
 :Drunks (1997) trailer
-:The People vs. Larry Flynt (1996) trailer
+:People vs. Larry Flynt, The (1996) trailer
 :Glory Daze (1996) trailer
 :Plutonium Circus (1995) trailer
-:A Perfect Candidate (1996) trailer
+:Perfect Candidate, A (1996) trailer
 :On Golden Pond (1981) trailer
-:The Return of the Pink Panther (1974) trailer
+:Return of the Pink Panther, The (1974) trailer
 :Drop Dead Fred (1991) trailer
-:The Abyss (1989) trailer
-:The Fog (1980) trailer
+:Abyss, The (1989) trailer
+:Fog, The (1980) trailer
 :Escape from New York (1981) trailer
-:The Howling (1980) trailer
+:Howling, The (1980) trailer
 :Jean de Florette (1986) trailer
 :Manon of the Spring (Manon des sources) (1986) trailer
 :Talking About Sex (1994) trailer
@@ -1126,28 +1126,28 @@
 :Hoogste tijd (1995) trailer
 :Get Over It (1996) trailer
 :Three Lives and Only One Death (1996) trailer
-:The Line King Al Hirschfeld (1996) trailer
+:Line King Al Hirschfeld, The (1996) trailer
 :Snowriders (1996) trailer
 :Curtis's Charm (1995) trailer
 :When We Were Kings (1996) trailer
-:The Wrong Trousers (1993) trailer
+:Wrong Trousers, The (1993) trailer
 :JLG/JLG - autoportrait de dcembre (1994) trailer
-:The Return of Martin Guerre (Retour de Martin Guerre, Le) (1982) trailer
+:Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982) trailer
 :Faust (1994) trailer
 :He Walked by Night (1948) trailer
 :Raw Deal (1948) trailer
 :T-Men (1947) trailer
-:The Invitation (Zaproszenie) (1986) trailer
-:The Children Are Watching us (Bambini ci guardano, I) (1942) trailer
-:La Symphonie pastorale (1946) trailer
+:Invitation, The (Zaproszenie) (1986) trailer
+:Children Are Watching us, The (Bambini ci guardano, I) (1942) trailer
+:Symphonie pastorale, La (1946) trailer
 :Here Comes Cookie (1935) trailer
 :Love in Bloom (1935) trailer
 :Six of a Kind (1934) trailer
-:The Tin Drum (Blechtrommel, Die) (1979) trailer
-:The Ruling Class (1972) trailer
+:Tin Drum, The (Blechtrommel, Die) (1979) trailer
+:Ruling Class, The (1972) trailer
 :Mina Tannenbaum (1994) trailer
 :Two or Three Things I Know About Her (1966) trailer
-:The Bloody Child (1996) trailer
+:Bloody Child, The (1996) trailer
 :Farmer & Chase (1995) trailer
 :Dear God (1996) trailer
 :Bad Moon (1996) trailer
@@ -1155,97 +1155,97 @@
 :Best of the Best 3 No Turning Back (1995) trailer
 :Bob Roberts (1992) trailer
 :Cinema Paradiso (1988) trailer
-:The Cook the Thief His Wife & Her Lover (1989) trailer
+:Cook the Thief His Wife & Her Lover, The (1989) trailer
 :Grosse Fatigue (1994) trailer
 :Delicatessen (1991) trailer
-:The Double Life of Veronique (La Double Vie de Vronique) (1991) trailer
+:Double Life of Veronique, The (La Double Vie de Vronique) (1991) trailer
 :Enchanted April (1991) trailer
 :Paths of Glory (1957) trailer
-:The Grifters (1990) trailer
+:Grifters, The (1990) trailer
 :Hear My Song (1991) trailer
-:The Shooter (1995) trailer
-:The English Patient (1996) trailer
+:Shooter, The (1995) trailer
+:English Patient, The (1996) trailer
 :Mediterraneo (1991) trailer
 :My Left Foot (1989) trailer
 :Sex, Lies, and Videotape (1989) trailer
 :Passion Fish (1992) trailer
 :Strictly Ballroom (1992) trailer
-:The Thin Blue Line (1988) trailer
+:Thin Blue Line, The (1988) trailer
 :Tie Me Up! Tie Me Down! (1990) trailer
 :Madonna Truth or Dare (1991) trailer
 :Paris Is Burning (1990) trailer
 :One Flew Over the Cuckoo's Nest (1975) trailer
 :Up in Smoke (1978) trailer
 :Star Wars Episode V - The Empire Strikes Back (1980) trailer
-:The Princess Bride (1987) trailer
+:Princess Bride, The (1987) trailer
 :Raiders of the Lost Ark (1981) trailer
 :Brazil (1985) trailer
 :Aliens (1986) trailer
-:The Good Bad and The Ugly
+:Good, The Bad and The Ugly, The (1966) trailer
 :Withnail and I (1987) trailer
 :12 Angry Men (1957) trailer
 :Lawrence of Arabia (1962) trailer
-:The Transformers The Movie (1986) trailer
-:A Clockwork Orange (1971) trailer
+:Transformers The Movie, The (1986) trailer
+:Clockwork Orange, A (1971) trailer
 :To Kill a Mockingbird (1962) trailer
 :Apocalypse Now (1979) trailer
 :Once Upon a Time in the West (1969) trailer
 :Star Wars Episode VI - Return of the Jedi (1983) trailer
 :Wings of Desire (Der Himmel ber Berlin) (1987) trailer
-:The Third Man (1949) trailer
+:Third Man, The (1949) trailer
 :GoodFellas (1990) trailer
 :Alien (1979) trailer
 :Army of Darkness (1993) trailer
-:The Big Blue (Le Grand Bleu) (1988) trailer
+:Big Blue, The (Le Grand Bleu) (1988) trailer
 :Ran (1985) trailer
-:The Killer (Die xue shuang xiong) (1989) trailer
+:Killer, The (Die xue shuang xiong) (1989) trailer
 :Psycho (1960) trailer
-:The Blues Brothers (1980) trailer
-:The Godfather Part II (1974) trailer
+:Blues Brothers, The (1980) trailer
+:Godfather Part II, The (1974) trailer
 :Full Metal Jacket (1987) trailer
-:A Grand Day Out (1992) trailer
+:Grand Day Out, A (1992) trailer
 :Henry V (1989) trailer
 :Amadeus (1984) trailer
-:The Quiet Man (1952) trailer
+:Quiet Man, The (1952) trailer
 :Once Upon a Time in America (1984) trailer
 :Raging Bull (1980) trailer
 :Annie Hall (1977) trailer
-:The Right Stuff (1983) trailer
+:Right Stuff, The (1983) trailer
 :Stalker (1979) trailer
-:The Boat (Das Boot) (1981) trailer
-:The Sting (1973) trailer
+:Boat, The (Das Boot) (1981) trailer
+:Sting, The (1973) trailer
 :Harold and Maude (1971) trailer
 :Trust (1990) trailer
-:The Seventh Seal (Sjunde inseglet, Det) (1957) trailer
+:Seventh Seal, The (Sjunde inseglet, Det) (1957) trailer
 :Local Hero (1983) trailer
-:The Terminator (1984) trailer
+:Terminator, The (1984) trailer
 :Braindead (1992) trailer
 :Glory (1989) trailer
 :Rosencrantz and Guildenstern Are Dead (1990) trailer
 :Manhattan (1979) trailer
 :Miller's Crossing (1990) trailer
 :Dead Poets Society (1989) trailer
-:The Graduate (1967) trailer
+:Graduate, The (1967) trailer
 :Touch of Evil (1958) trailer
 :Nikita (La Femme Nikita) (1990) trailer
-:The Bridge on the River Kwai (1957) trailer
+:Bridge on the River Kwai, The (1957) trailer
 :8 1/2 (1963) trailer
 :Chinatown (1974) trailer
-:The Day the Earth Stood Still (1951) trailer
-:The Treasure of the Sierra Madre (1948) trailer
+:Day the Earth Stood Still, The (1951) trailer
+:Treasure of the Sierra Madre, The (1948) trailer
 :Bad Taste (1987) trailer
 :Duck Soup (1933) trailer
 :Better Off Dead... (1985) trailer
-:The Shining (1980) trailer
+:Shining, The (1980) trailer
 :Stand by Me (1986) trailer
 :M (1931) trailer
 :Evil Dead II (Dead By Dawn) (1987) trailer
-:The Great Escape (1963) trailer
-:The Deer Hunter (1978) trailer
+:Great Escape, The (1963) trailer
+:Deer Hunter, The (1978) trailer
 :Diva (1981) trailer
 :Groundhog Day (1993) trailer
 :Unforgiven (1992) trailer
-:The Manchurian Candidate (1962) trailer
+:Manchurian Candidate, The (1962) trailer
 :Pump Up the Volume (1990) trailer
 :Arsenic and Old Lace (1944) trailer
 :Back to the Future (1985) trailer
@@ -1259,10 +1259,10 @@
 :Young Frankenstein (1974) trailer
 :Night on Earth (1991) trailer
 :Raise the Red Lantern (1991) trailer
-:The Great Dictator (1940) trailer
+:Great Dictator, The (1940) trailer
 :Fantasia (1940) trailer
 :High Noon (1952) trailer
-:The Big Sleep (1946) trailer
+:Big Sleep, The (1946) trailer
 :Heathers (1989) trailer
 :Somewhere in Time (1980) trailer
 :Ben-Hur (1959) trailer
@@ -1273,15 +1273,15 @@
 :Being There (1979) trailer
 :Gandhi (1982) trailer
 :M*A*S*H (1970) trailer
-:The Unbearable Lightness of Being (1988) trailer
-:A Room with a View (1986) trailer
+:Unbearable Lightness of Being, The (1988) trailer
+:Room with a View, A (1986) trailer
 :Real Genius (1985) trailer
 :Pink Floyd - The Wall (1982) trailer
-:The Killing Fields (1984) trailer
+:Killing Fields, The (1984) trailer
 :My Life as a Dog (Mitt liv som hund) (1985) trailer
 :Forbidden Planet (1956) trailer
 :Field of Dreams (1989) trailer
-:The Man Who Would Be King (1975) trailer
+:Man Who Would Be King, The (1975) trailer
 :Butch Cassidy and the Sundance Kid (1969) trailer
 :Paris, Texas (1984) trailer
 :Until the End of the World (Bis ans Ende der Welt) (1991) trailer
@@ -1299,23 +1299,23 @@
 :Blue Juice (1995) trailer
 :Kids of Survival (1993) trailer
 :Alien (1992) trailer
-:A American Werewolf in Londonn (1981) trailer
+:American Werewolf in London, An (1981) trailer
 :Amityville 1992 It's About Time (1992) trailer
 :Amityville 3-D (1983) trailer
 :Amityville Dollhouse (1996) trailer
 :Amityville A New Generation (1993) trailer
 :Amityville II The Possession (1982) trailer
-:The Amityville Horror (1979) trailer
-:The Amityville Curse (1990) trailer
+:Amityville Horror, The (1979) trailer
+:Amityville Curse, The (1990) trailer
 :Blood For Dracula (Andy Warhol's Dracula) (1974) trailer
 :April Fool's Day (1986) trailer
 :Audrey Rose (1977) trailer
-:The Believers (1987) trailer
-:The Birds (1963) trailer
-:The Blob (1958) trailer
+:Believers, The (1987) trailer
+:Birds, The (1963) trailer
+:Blob, The (1958) trailer
 :Blood Beach (1981) trailer
 :Body Parts (1991) trailer
-:The Body Snatcher (1945) trailer
+:Body Snatcher, The (1945) trailer
 :Bram Stoker's Dracula (1992) trailer
 :Bride of Frankenstein (1935) trailer
 :Burnt Offerings (1976) trailer
@@ -1324,13 +1324,13 @@
 :Cape Fear (1962) trailer
 :Carrie (1976) trailer
 :Cat People (1982) trailer
-:A Nightmare on Elm Street (1984) trailer
+:Nightmare on Elm Street, A (1984) trailer
 :Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922) trailer
 :Nosferatu a Venezia (1986) trailer
-:The Omen (1976) trailer
+:Omen, The (1976) trailer
 :Blood & Wine (1997) trailer
 :Albino Alligator (1996) trailer
-:The Mirror Has Two Faces (1996) trailer
+:Mirror Has Two Faces, The (1996) trailer
 :Breaking the Waves (1996) trailer
 :Nightwatch (1997) trailer
 :Star Trek First Contact (1996) trailer
@@ -1339,13 +1339,13 @@
 :Jingle All the Way (1996) trailer
 :Identification of a Woman (Identificazione di una donna) (1982) trailer
 :Paradise Lost The Child Murders at Robin Hood Hills (1996) trailer
-:The Garden of Finzi-Contini (Giardino dei Finzi-Contini, Il) (1970) trailer
-:The Preacher's Wife (1996) trailer
+:Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970) trailer
+:Preacher's Wife, The (1996) trailer
 :Zero Kelvin (Kjrlighetens kjtere) (1995) trailer
 :Ridicule (1996) trailer
-:The Crucible (1996) trailer
+:Crucible, The (1996) trailer
 :101 Dalmatians (1996) trailer
-:The Forbidden Christ (Cristo proibito, Il) (1950) trailer
+:Forbidden Christ, The (Cristo proibito, Il) (1950) trailer
 :I Can't Sleep (J'ai pas sommeil) (1994) trailer
 :Die Hard 2 (1990) trailer
 :Star Trek The Motion Picture (1979) trailer
@@ -1361,7 +1361,7 @@
 :Grease 2 (1982) trailer
 :Marked for Death (1990) trailer
 :Adrenalin Fear the Rush (1996) trailer
-:The Substance of Fire (1996) trailer
+:Substance of Fire, The (1996) trailer
 :Under Siege (1992) trailer
 :Terror in a Texas Town (1958) trailer
 :Jaws (1975) trailer
@@ -1381,18 +1381,18 @@
 :Ghosts of Mississippi (1996) trailer
 :Night Falls on Manhattan (1997) trailer
 :Beavis and Butt-head Do America (1996) trailer
-:La Crmonie (1995) trailer
+:Crmonie, La (1995) trailer
 :Scream (1996) trailer
-:The Last of the Mohicans (1992) trailer
+:Last of the Mohicans, The (1992) trailer
 :Michael (1996) trailer
-:The Evening Star (1996) trailer
+:Evening Star, The (1996) trailer
 :Hamlet (1996) trailer
 :Some Mother's Son (1996) trailer
-:The Whole Wide World (1996) trailer
+:Whole Wide World, The (1996) trailer
 :Mother (1996) trailer
 :Thieves (Voleurs, Les) (1996) trailer
 :Evita (1996) trailer
-:The Portrait of a Lady (1996) trailer
+:Portrait of a Lady, The (1996) trailer
 :Walkabout (1971) trailer
 :Message to Love The Isle of Wight Festival (1996) trailer
 :Grateful Dead (1995) trailer
@@ -1407,16 +1407,16 @@
 :Underworld (1997) trailer
 :Beverly Hills Ninja (1997) trailer
 :Metro (1997) trailer
-:The Machine (1994) trailer
-:The Stranger (1994) trailer
+:Machine, The (1994) trailer
+:Stranger, The (1994) trailer
 :Falling in Love Again (1980) trailer
-:The Cement Garden (1993) trailer
+:Cement Garden, The (1993) trailer
 :Dante's Peak (1997) trailer
 :Meet Wally Sparks (1997) trailer
 :Amos & Andrew (1993) trailer
 :Benny & Joon (1993) trailer
 :Prefontaine (1997) trailer
-:A Tickle in the Heart (1996) trailer
+:Tickle in the Heart, A (1996) trailer
 :Guantanamera (1994) trailer
 :McHale's Navy (1997) trailer
 :Kolya (1996) trailer
@@ -1424,10 +1424,10 @@
 :Fire on the Mountain (1996) trailer
 :Waiting for Guffman (1996) trailer
 :Prisoner of the Mountains (Kavkazsky Plennik) (1996) trailer
-:The Beautician and the Beast (1997) trailer
+:Beautician and the Beast, The (1997) trailer
 :SubUrbia (1997) trailer
 :Hotel de Love (1996) trailer
-:The Pest (1997) trailer
+:Pest, The (1997) trailer
 :Fools Rush In (1997) trailer
 :Touch (1997) trailer
 :Absolute Power (1997) trailer
@@ -1448,19 +1448,19 @@
 :Kama Sutra A Tale of Love (1996) trailer
 :Private Parts (1997) trailer
 :Love Jones (1997) trailer
-:The Saint (1997) trailer
+:Saint, The (1997) trailer
 :Smilla's Sense of Snow (1997) trailer
-:The Van (1996) trailer
+:Van, The (1996) trailer
 :Crash (1996) trailer
-:The Daytrippers (1996) trailer
+:Daytrippers, The (1996) trailer
 :Liar Liar (1997) trailer
-:The Quiet Room (1996) trailer
+:Quiet Room, The (1996) trailer
 :Selena (1997) trailer
-:The Devil's Own (1997) trailer
+:Devil's Own, The (1997) trailer
 :Cats Don't Dance (1997) trailer
 :B*A*P*S (1997) trailer
 :Love and Other Catastrophes (1996) trailer
-:The Sixth Man (1997) trailer
+:Sixth Man, The (1997) trailer
 :Turbo A Power Rangers Movie (1997) trailer
 :Anna Karenina (1997) trailer
 :Double Team (1997) trailer
@@ -1474,7 +1474,7 @@
 :Paradise Road (1997) trailer
 :Traveller (1997) trailer
 :All Over Me (1997) trailer
-:A Brother's Kiss (1997) trailer
+:Brother's Kiss, A (1997) trailer
 :A Chef in Love (1996) trailer
 :Romy and Michele's High School Reunion (1997) trailer
 :Temptress Moon (Feng Yue) (1996) trailer
@@ -1486,46 +1486,46 @@
 :Commandments (1997) trailer
 :Ripe (1996) trailer
 :Truth or Consequences, N.M. (1997) trailer
-:The Turning (1992) trailer
+:Turning, The (1992) trailer
 :Warriors of Virtue (1997) trailer
 :Fathers' Day (1997) trailer
-:The Fifth Element (1997) trailer
+:Fifth Element, The (1997) trailer
 :Intimate Relations (1996) trailer
 :Nowhere (1997) trailer
 :Losing Chase (1996) trailer
 :Sprung (1997) trailer
-:The Promise (La Promesse) (1996) trailer
+:Promise, The (La Promesse) (1996) trailer
 :Bonheur, Le (1965) trailer
 :Love! Valour! Compassion! (1997) trailer
 :Shall We Dance? (Shall We Dansu?) (1996) trailer
-:The Second Jungle Book Mowgli & Baloo (1997) trailer
+:Second Jungle Book Mowgli & Baloo, The (1997) trailer
 :Twin Town (1997) trailer
 :Addicted to Love (1997) trailer
 :Brassed Off (1996) trailer
-:The Designated Mourner (1997) trailer
-:The Lost World Jurassic Park (1997) trailer
+:Designated Mourner, The (1997) trailer
+:Lost World Jurassic Park, The (1997) trailer
 :Ponette (1996) trailer
 :Schizopolis (1996) trailer
 :Shiloh (1997) trailer
-:The War at Home (1996) trailer
+:War at Home, The (1996) trailer
 :Rough Magic (1995) trailer
 :Trial and Error (1997) trailer
 :Buddy (1997) trailer
 :Con Air (1997) trailer
 :Late Bloomers (1996) trailer
-:The Pillow Book (1995) trailer
+:Pillow Book, The (1995) trailer
 :To Have, or Not (1995) trailer
 :Speed 2 Cruise Control (1997) trailer
 :Squeeze (1996) trailer
 :Sudden Manhattan (1996) trailer
-:The Next Step (1995) trailer
+:Next Step, The (1995) trailer
 :Wedding Bell Blues (1996) trailer
 :Batman & Robin (1997) trailer
 :Dream With the Fishes (1997) trailer
 :Roseanna's Grave (For Roseanna) (1997) trailer
 :Head Above Water (1996) trailer
 :Hercules (1997) trailer
-:The Last Time I Committed Suicide (1997) trailer
+:Last Time I Committed Suicide, The (1997) trailer
 :MURDER and murder (1996) trailer
 :My Best Friend's Wedding (1997) trailer
 :Tetsuo II Body Hammer (1992) trailer
@@ -1535,12 +1535,12 @@
 :Fall (1997) trailer
 :Gabbeh (1996) trailer
 :Mondo (1996) trailer
-:The Innocent Sleep (1995) trailer
+:Innocent Sleep, The (1995) trailer
 :For Ever Mozart (1996) trailer
 :Men in Black (1997) trailer
 :Out to Sea (1997) trailer
 :Wild America (1997) trailer
-:A Simple Wish (1997) trailer
+:Simple Wish, A (1997) trailer
 :Contact (1997) trailer
 :Love Serenade (1996) trailer
 :G.I. Jane (1997) trailer
@@ -1566,41 +1566,41 @@
 :Kull the Conqueror (1997) trailer
 :Air Force One (1997) trailer
 :187 (1997) trailer
-:The Hunt for Red October (1990) trailer
+:Hunt for Red October, The (1990) trailer
 :My Own Private Idaho (1991) trailer
 :Kiss Me, Guido (1997) trailer
 :Star Maps (1997) trailer
 :In & Out (1997) trailer
-:The Edge (1997) trailer
-:The Peacemaker (1997) trailer
+:Edge, The (1997) trailer
+:Peacemaker, The (1997) trailer
 :L.A. Confidential (1997) trailer
 :Seven Years in Tibet (1997) trailer
 :Kiss the Girls (1997) trailer
 :Soul Food (1997) trailer
 :Kicked in the Head (1997) trailer
 :Wishmaster (1997) trailer
-:A Thousand Acres (1997) trailer
-:The Game (1997) trailer
+:Thousand Acres, A (1997) trailer
+:Game, The (1997) trailer
 :Fire Down Below (1997) trailer
 :U Turn (1997) trailer
-:The Locusts (1997) trailer
-:The MatchMaker (1997) trailer
-:The Lay of the Land (1997) trailer
-:The Assignment (1997) trailer
-:A Smile Like Yours (1997) trailer
+:Locusts, The (1997) trailer
+:MatchMaker, The (1997) trailer
+:Lay of the Land, The (1997) trailer
+:Assignment, The (1997) trailer
+:Smile Like Yours, A (1997) trailer
 :Ulee's Gold (1997) trailer
-:The Ice Storm (1997) trailer
+:Ice Storm, The (1997) trailer
 :Stag (1997) trailer
 :Chasing Amy (1997) trailer
 :How to Be a Player (1997) trailer
-:The Full Monty (1997) trailer
+:Full Monty, The (1997) trailer
 :Indian Summer (a.k.a. Alive & Kicking) (1996) trailer
 :Mrs. Brown (Her Majesty, Mrs. Brown) (1997) trailer
 :I Know What You Did Last Summer (1997) trailer
-:The Devil's Advocate (1997) trailer
+:Devil's Advocate, The (1997) trailer
 :Rocket Man (1997) trailer
 :Playing God (1997) trailer
-:The House of Yes (1997) trailer
+:House of Yes, The (1997) trailer
 :Fast, Cheap & Out of Control (1997) trailer
 :Washington Square (1997) trailer
 :Telling Lies in America (1997) trailer
@@ -1610,7 +1610,7 @@
 :Phantoms (1998) trailer
 :Swept from the Sea (1997) trailer
 :Wonderland (1997) trailer
-:A Life Less Ordinary (1997) trailer
+:Life Less Ordinary, A (1997) trailer
 :Hurricane Streets (1998) trailer
 :Eve's Bayou (1997) trailer
 :Switchback (1997) trailer
@@ -1621,36 +1621,36 @@
 :Hugo Pool (1997) trailer
 :Mad City (1997) trailer
 :One Night Stand (1997) trailer
-:The Tango Lesson (1997) trailer
+:Tango Lesson, The (1997) trailer
 :Welcome To Sarajevo (1997) trailer
 :Deceiver (1997) trailer
-:The Rainmaker (1997) trailer
+:Rainmaker, The (1997) trailer
 :Boogie Nights (1997) trailer
 :Witness (1985) trailer
 :Incognito (1997) trailer
 :Starship Troopers (1997) trailer
 :Critical Care (1997) trailer
-:The Joy Luck Club (1993) trailer
+:Joy Luck Club, The (1993) trailer
 :Chairman of the Board (1998) trailer
 :Sliding Doors (1998) trailer
 :Mortal Kombat Annihilation (1997) trailer
-:The Truman Show (1998) trailer
-:The Wings of the Dove (1997) trailer
+:Truman Show, The (1998) trailer
+:Wings of the Dove, The (1997) trailer
 :Mrs. Dalloway (1997) trailer
 :I Love You, I Love You Not (1996) trailer
 :Red Corner (1997) trailer
-:The Jackal (1997) trailer
+:Jackal, The (1997) trailer
 :Anastasia (1997) trailer
-:The Man Who Knew Too Little (1997) trailer
+:Man Who Knew Too Little, The (1997) trailer
 :Alien Resurrection (1997) trailer
 :Alien Escape (1995) trailer
 :Amistad (1997) trailer
-:The Apostle (1997) trailer
+:Apostle, The (1997) trailer
 :Artemisia (1997) trailer
 :Bent (1997) trailer
-:The Big Bang Theory (1994) trailer
+:Big Bang Theory, The (1994) trailer
 :Boys, Les (1997) trailer
-:The Butcher Boy (1998) trailer
+:Butcher Boy, The (1998) trailer
 :Deconstructing Harry (1997) trailer
 :Flubber (1997) trailer
 :For Richer or Poorer (1997) trailer
@@ -1668,20 +1668,20 @@
 :Other Voices, Other Rooms (1997) trailer
 :Scream 2 (1997) trailer
 :Stranger in the House (1997) trailer
-:The Sweet Hereafter (1997) trailer
+:Sweet Hereafter, The (1997) trailer
 :Time Tracers (1995) trailer
 :Titanic (1997) trailer
 :Tomorrow Never Dies (1997) trailer
 :Twisted (1996) trailer
 :Full Speed (1996) trailer
-:The Education of Little Tree (1997) trailer
-:The Postman (1997) trailer
-:The Horse Whisperer (1998) trailer
-:The Winter Guest (1997) trailer
+:Education of Little Tree, The (1997) trailer
+:Postman, The (1997) trailer
+:Horse Whisperer, The (1998) trailer
+:Winter Guest, The (1997) trailer
 :Jackie Brown (1997) trailer
 :Kundun (1997) trailer
 :Mr. Magoo (1997) trailer
-:The Big Lebowski (1998) trailer
+:Big Lebowski, The (1998) trailer
 :Afterglow (1997) trailer
 :My Life in Pink (Ma vie en rose) (1997) trailer
 :Great Expectations (1998) trailer
@@ -1695,40 +1695,40 @@
 :Senseless (1998) trailer
 :Wag the Dog (1997) trailer
 :Dark City (1998) trailer
-:The Leading Man (1996) trailer
+:Leading Man, The (1996) trailer
 :Star Kid (1997) trailer
 :Hard Rain (1998) trailer
 :Half Baked (1998) trailer
 :Fallen (1998) trailer
 :Shooting Fish (1997) trailer
-:The Prophecy II (1998) trailer
+:Prophecy II, The (1998) trailer
 :Duoluo tianshi (1995) trailer
 :Dangerous Beauty (1998) trailer
 :Four Days in September (1997) trailer
 :Spice World (1997) trailer
 :Deep Rising (1998) trailer
 :Tainted (1998) trailer
-:A Letter From Death Row (1998) trailer
+:Letter From Death Row, A (1998) trailer
 :Music From Another Room (1998) trailer
 :Mat' i syn (1997) trailer
-:The Replacement Killers (1998) trailer
+:Replacement Killers, The (1998) trailer
 :B. Monkey (1998) trailer
 :Night Flier (1997) trailer
 :Blues Brothers 2000 (1998) trailer
 :Tokyo Fist (1995) trailer
 :Mass Transit (1998) trailer
 :Ride (1998) trailer
-:The Wedding Singer (1998) trailer
+:Wedding Singer, The (1998) trailer
 :Sphere (1998) trailer
 :Ayn Rand A Sense of Life (1997) trailer
-:A Further Gesture (1996) trailer
+:Further Gesture, A (1996) trailer
 :Little City (1998) trailer
 :Palmetto (1998) trailer
 :As Good As It Gets (1997) trailer
 :King of New York (1990) trailer
-:A Paralyzing Fear The Story of Polio in America (1998) trailer
+:Paralyzing Fear The Story of Polio in America, A (1998) trailer
 :Men With Guns (1997) trailer
-:The Sadness of Sex (1995) trailer
+:Sadness of Sex, The (1995) trailer
 :Twilight (1998) trailer
 :U.S. Marshalls (1998) trailer
 :Welcome to Woop-Woop (1997) trailer
@@ -1738,55 +1738,55 @@
 :Everest (1998) trailer
 :Hush (1998) trailer
 :Suicide Kings (1997) trailer
-:The Man in the Iron Mask (1998) trailer
-:The Newton Boys (1998) trailer
+:Man in the Iron Mask, The (1998) trailer
+:Newton Boys, The (1998) trailer
 :Wild Things (1998) trailer
 :Paulie (1998) trailer
-:A Cool Dry Place (1998) trailer
+:Cool Dry Place, A (1998) trailer
 :Hana-bi (1997) trailer
 :Primary Colors (1998) trailer
 :Niagara, Niagara (1997) trailer
 :Wide Awake (1998) trailer
-:A Price Above Rubies (1998) trailer
+:Price Above Rubies, A (1998) trailer
 :Eden (1997) trailer
 :Two Girls and a Guy (1997) trailer
 :No Looking Back (1998) trailer
 :Storefront Hitchcock (1997) trailer
-:The Proposition (1998) trailer
-:The Object of My Affection (1998) trailer
+:Proposition, The (1998) trailer
+:Object of My Affection, The (1998) trailer
 :Meet the Deedles (1998) trailer
 :Homegrown (1998) trailer
-:The Player's Club (1998) trailer
+:Player's Club, The (1998) trailer
 :Barney's Great Adventure (1998) trailer
-:The Big One (1997) trailer
+:Big One, The (1997) trailer
 :Chinese Box (1997) trailer
 :Follow the Bitch (1998) trailer
 :Lost in Space (1998) trailer
 :Heaven's Burning (1997) trailer
 :Mercury Rising (1998) trailer
-:The Spanish Prisoner (1997) trailer
+:Spanish Prisoner, The (1997) trailer
 :City of Angels (1998) trailer
-:The Last Days of Disco (1998) trailer
-:The Odd Couple II (1998) trailer
+:Last Days of Disco, The (1998) trailer
+:Odd Couple II, The (1998) trailer
 :My Giant (1998) trailer
 :He Got Game (1998) trailer
-:The Gingerbread Man (1998) trailer
+:Gingerbread Man, The (1998) trailer
 :Illtown (1996) trailer
 :Slappy and the Stinkers (1998) trailer
 :Live Flesh (1997) trailer
 :Zero Effect (1998) trailer
 :Nil By Mouth (1997) trailer
 :Ratchet (1996) trailer
-:The Borrowers (1997) trailer
+:Borrowers, The (1997) trailer
 :Prince Valiant (1997) trailer
 :I Love You, Don't Touch Me! (1998) trailer
 :Leather Jacket Love Story (1997) trailer
 :Love Walked In (1998) trailer
-:A Alan Smithee Film Burn Hollywood Burnn (1997) trailer
+:Alan Smithee Film Burn Hollywood Burn, An (1997) trailer
 :Kissing a Fool (1998) trailer
 :Krippendorf's Tribe (1998) trailer
 :Kurt & Courtney (1998) trailer
-:The Real Blonde (1997) trailer
+:Real Blonde, The (1997) trailer
 :Mr. Nice Guy (1997) trailer
 :Taste of Cherry (1997) trailer
 :Character (Karakter) (1997) trailer
@@ -1795,12 +1795,12 @@
 :Major League Back to the Minors (1998) trailer
 :Sour Grapes (1998) trailer
 :Wild Man Blues (1998) trailer
-:The Big Hit (1998) trailer
+:Big Hit, The (1998) trailer
 :Tarzan and the Lost City (1998) trailer
-:The Truce (1996) trailer
+:Truce, The (1996) trailer
 :Black Dog (1998) trailer
 :Dancer, Texas Pop. 81 (1998) trailer
-:A Friend of the Deceased (1997) trailer
+:Friend of the Deceased, A (1997) trailer
 :Go Now (1995) trailer
 :Misrables, Les (1998) trailer
 :Still Breathing (1997) trailer
@@ -1808,28 +1808,28 @@
 :Deep Impact (1998) trailer
 :Little Men (1998) trailer
 :Woo (1998) trailer
-:The Hanging Garden (1997) trailer
+:Hanging Garden, The (1997) trailer
 :Lawn Dogs (1997) trailer
 :Quest for Camelot (1998) trailer
 :Godzilla (1998) trailer
 :Bulworth (1998) trailer
 :Fear and Loathing in Las Vegas (1998) trailer
-:The Opposite of Sex (1998) trailer
+:Opposite of Sex, The (1998) trailer
 :I Got the Hook Up (1998) trailer
 :Almost Heroes (1998) trailer
 :Hope Floats (1998) trailer
 :Insomnia (1997) trailer
 :Little Boy Blue (1997) trailer
-:The Ugly (1997) trailer
-:A Perfect Murder (1998) trailer
+:Ugly, The (1997) trailer
+:Perfect Murder, A (1998) trailer
 :Beyond Silence (1996) trailer
 :Six Days Seven Nights (1998) trailer
 :Can't Hardly Wait (1998) trailer
 :Cousin Bette (1998) trailer
 :High Art (1998) trailer
-:The Land Girls (1998) trailer
+:Land Girls, The (1998) trailer
 :Passion in the Desert (1998) trailer
-:The Children of Heaven (Bacheha-Ye Aseman) (1997) trailer
+:Children of Heaven, The (Bacheha-Ye Aseman) (1997) trailer
 :Dear Jesse (1997) trailer
 :Dream for an Insomniac (1996) trailer
 :Hav Plenty (1997) trailer
@@ -1838,7 +1838,7 @@
 :Mr. Jealousy (1997) trailer
 :Mulan (1998) trailer
 :Resurrection Man (1998) trailer
-:The X-Files Fight the Future (1998) trailer
+:X-Files Fight the Future, The (1998) trailer
 :I Went Down (1997) trailer
 :Doctor Dolittle (1998) trailer
 :Out of Sight (1998) trailer
@@ -1855,41 +1855,41 @@
 :There's Something About Mary (1998) trailer
 :Plan 9 from Outer Space (1958) trailer
 :Wings (1927) trailer
-:The Broadway Melody (1929) trailer
+:Broadway Melody, The (1929) trailer
 :All Quiet on the Western Front (1930) trailer
 :Cimarron (1931) trailer
 :Grand Hotel (1932) trailer
 :Cavalcade (1933) trailer
 :Mutiny on the Bounty (1935) trailer
-:The Great Ziegfeld (1936) trailer
-:The Life of mile Zola (1937) trailer
+:Great Ziegfeld, The (1936) trailer
+:Life of mile Zola, The (1937) trailer
 :You Can't Take It With You (1938) trailer
 :How Green Was My Valley (1941) trailer
 :Mrs. Miniver (1942) trailer
 :Going My Way (1944) trailer
-:The Lost Weekend (1945) trailer
-:The Best Years of Our Lives (1946) trailer
+:Lost Weekend, The (1945) trailer
+:Best Years of Our Lives, The (1946) trailer
 :Gentleman's Agreement (1947) trailer
 :Hamlet (1948) trailer
 :All the King's Men (1949) trailer
-:The Greatest Show on Earth (1952) trailer
+:Greatest Show on Earth, The (1952) trailer
 :From Here to Eternity (1953) trailer
 :On the Waterfront (1954) trailer
 :Marty (1955) trailer
 :West Side Story (1961) trailer
 :Tom Jones (1963) trailer
-:A Man for All Seasons (1966) trailer
+:Man for All Seasons, A (1966) trailer
 :In the Heat of the Night (1967) trailer
 :Oliver! (1968) trailer
 :Midnight Cowboy (1969) trailer
-:The French Connection (1971) trailer
+:French Connection, The (1971) trailer
 :Rocky (1976) trailer
 :Kramer Vs. Kramer (1979) trailer
 :Ordinary People (1980) trailer
 :Chariots of Fire (1981) trailer
 :Terms of Endearment (1983) trailer
 :Out of Africa (1985) trailer
-:The Last Emperor (1987) trailer
+:Last Emperor, The (1987) trailer
 :Rain Man (1988) trailer
 :Driving Miss Daisy (1989) trailer
 :Take the Money and Run (1969) trailer
@@ -1897,11 +1897,11 @@
 :Repo Man (1984) trailer
 :Metropolitan (1990) trailer
 :Labyrinth (1986) trailer
-:The Breakfast Club (1985) trailer
-:A Nightmare on Elm Street Part 2 Freddy's Revenge (1985) trailer
-:A Nightmare on Elm Street 3 Dream Warriors (1987) trailer
-:A Nightmare on Elm Street 4 The Dream Master (1988) trailer
-:A Nightmare on Elm Street 5 The Dream Child (1989) trailer
+:Breakfast Club, The (1985) trailer
+:Nightmare on Elm Street Part 2 Freddy's Revenge, A (1985) trailer
+:Nightmare on Elm Street 3 Dream Warriors, A (1987) trailer
+:Nightmare on Elm Street 4 The Dream Master, A (1988) trailer
+:Nightmare on Elm Street 5 The Dream Child, A (1989) trailer
 :Freddy's Dead The Final Nightmare (1991) trailer
 :Friday the 13th (1980) trailer
 :Friday the 13th Part 2 (1981) trailer
@@ -1926,34 +1926,34 @@
 :Poltergeist (1982) trailer
 :Poltergeist II The Other Side (1986) trailer
 :Poltergeist III (1988) trailer
-:The Exorcist (1973) trailer
+:Exorcist, The (1973) trailer
 :Exorcist II The Heretic (1977) trailer
-:The Exorcist III (1990) trailer
+:Exorcist III, The (1990) trailer
 :Lethal Weapon (1987) trailer
 :Lethal Weapon 2 (1989) trailer
 :Lethal Weapon 3 (1992) trailer
 :Gremlins (1984) trailer
 :Gremlins 2 The New Batch (1990) trailer
-:The Goonies (1985) trailer
-:The Mask of Zorro (1998) trailer
+:Goonies, The (1985) trailer
+:Mask of Zorro, The (1998) trailer
 :Polish Wedding (1998) trailer
-:The This Worldn the Fireworks (1996) trailer
+:This World, Then the Fireworks (1996) trailer
 :Soylent Green (1973) trailer
 :Metropolis (1926) trailer
 :Back to the Future Part II (1989) trailer
 :Back to the Future Part III (1990) trailer
-:The Poseidon Adventure (1972) trailer
+:Poseidon Adventure, The (1972) trailer
 :Freaky Friday (1977) trailer
-:The Absent Minded Professor (1961) trailer
-:The Apple Dumpling Gang Rides Again (1979) trailer
+:Absent Minded Professor, The (1961) trailer
+:Apple Dumpling Gang Rides Again, The (1979) trailer
 :Babes in Toyland (1961) trailer
 :Bambi (1942) trailer
 :Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954) trailer
 :Dangerous Liaisons (1988) trailer
 :Dune (1984) trailer
-:The Last Temptation of Christ (1988) trailer
-:The Godfather Part III (1990) trailer
-:The Rapture (1991) trailer
+:Last Temptation of Christ, The (1988) trailer
+:Godfather Part III, The (1990) trailer
+:Rapture, The (1991) trailer
 :Lolita (1997) trailer
 :Disturbing Behavior (1998) trailer
 :Mafia! (1998) trailer
@@ -1961,24 +1961,24 @@
 :Billy's Hollywood Screen Kiss (1997) trailer
 :East Palace West Palace (Dong gong xi gong) (1997) trailer
 :$1,000,000 Duck (1971) trailer
-:The Barefoot Executive (1971) trailer
-:The Black Cauldron (1985) trailer
-:The Black Hole (1979) trailer
+:Barefoot Executive, The (1971) trailer
+:Black Cauldron, The (1985) trailer
+:Black Hole, The (1979) trailer
 :Blackbeard's Ghost (1968) trailer
 :Blank Check (1994) trailer
 :Candleshoe (1977) trailer
-:The Cat from Outer Space (1978) trailer
+:Cat from Outer Space, The (1978) trailer
 :Cheetah (1989) trailer
-:The Computer Wore Tennis Shoes (1970) trailer
+:Computer Wore Tennis Shoes, The (1970) trailer
 :Condorman (1981) trailer
 :D2 The Mighty Ducks (1994) trailer
 :Darby O'Gill and the Little People (1959) trailer
-:The Devil and Max Devlin (1981) trailer
-:A Far Off Place (1993) trailer
+:Devil and Max Devlin, The (1981) trailer
+:Far Off Place, A (1993) trailer
 :Flight of the Navigator (1986) trailer
-:The Gnome-Mobile (1967) trailer
-:The Great Mouse Detective (1986) trailer
-:The Happiest Millionaire (1967) trailer
+:Gnome-Mobile, The (1967) trailer
+:Great Mouse Detective, The (1986) trailer
+:Happiest Millionaire, The (1967) trailer
 :Herbie Goes Bananas (1980) trailer
 :Herbie Goes to Monte Carlo (1977) trailer
 :Hocus Pocus (1993) trailer
@@ -1986,45 +1986,45 @@
 :Honey, I Shrunk the Kids (1989) trailer
 :Hot Lead and Cold Feet (1978) trailer
 :In Search of the Castaways (1962) trailer
-:The Incredible Journey (1963) trailer
-:The Negotiator (1998) trailer
-:The Parent Trap (1998) trailer
+:Incredible Journey, The (1963) trailer
+:Negotiator, The (1998) trailer
+:Parent Trap, The (1998) trailer
 :BASEketball (1998) trailer
 :Full Tilt Boogie (1997) trailer
-:The Governess (1998) trailer
+:Governess, The (1998) trailer
 :Seventh Heaven (Le Septime ciel) (1997) trailer
 :Roger & Me (1989) trailer
-:The Purple Rose of Cairo (1985) trailer
+:Purple Rose of Cairo, The (1985) trailer
 :Out of the Past (1947) trailer
 :Doctor Zhivago (1965) trailer
 :Fanny and Alexander (1982) trailer
-:The Trip to Bountiful (1985) trailer
+:Trip to Bountiful, The (1985) trailer
 :Tender Mercies (1983) trailer
 :And the Band Played On (1993) trailer
-:The 'burbs (1989) trailer
+:'burbs, The (1989) trailer
 :Fandango (1985) trailer
-:The Night Porter (Il Portiere di notte) (1974) trailer
+:Night Porter, The (Il Portiere di notte) (1974) trailer
 :Mephisto (1981) trailer
 :Blue Velvet (1986) trailer
-:The Journey of Natty Gann (1985) trailer
-:The Jungle Book (1967) trailer
+:Journey of Natty Gann, The (1985) trailer
+:Jungle Book, The (1967) trailer
 :Kidnapped (1960) trailer
 :Lady and the Tramp (1955) trailer
-:The Little Mermaid (1989) trailer
-:The Mighty Ducks (1992) trailer
-:The Muppet Christmas Carol (1992) trailer
+:Little Mermaid, The (1989) trailer
+:Mighty Ducks, The (1992) trailer
+:Muppet Christmas Carol, The (1992) trailer
 :Newsies (1992) trailer
 :101 Dalmatians (1961) trailer
 :One Magic Christmas (1985) trailer
 :Peter Pan (1953) trailer
 :Popeye (1980) trailer
-:The Rescuers Down Under (1990) trailer
-:The Rescuers (1977) trailer
+:Rescuers Down Under, The (1990) trailer
+:Rescuers, The (1977) trailer
 :Return from Witch Mountain (1978) trailer
-:The Return of Jafar (1993) trailer
+:Return of Jafar, The (1993) trailer
 :Return to Oz (1985) trailer
-:The Rocketeer (1991) trailer
-:The Shaggy D.A. (1976) trailer
+:Rocketeer, The (1991) trailer
+:Shaggy D.A., The (1976) trailer
 :Sleeping Beauty (1959) trailer
 :Something Wicked This Way Comes (1983) trailer
 :Son of Flubber (1963) trailer
@@ -2038,60 +2038,60 @@
 :Swing Kids (1993) trailer
 :Halloween H20 (1998) trailer
 :L.A. Story (1991) trailer
-:The Jerk (1979) trailer
+:Jerk, The (1979) trailer
 :Dead Men Don't Wear Plaid (1982) trailer
-:The Man with Two Brains (1983) trailer
+:Man with Two Brains, The (1983) trailer
 :Grand Canyon (1991) trailer
 :Graveyard Shift (1990) trailer
-:The Outsiders (1983) trailer
+:Outsiders, The (1983) trailer
 :Indiana Jones and the Temple of Doom (1984) trailer
-:The Lord of the Rings (1978) trailer
+:Lord of the Rings, The (1978) trailer
 :Nineteen Eighty-Four (1984) trailer
-:The Dead Zone (1983) trailer
+:Dead Zone, The (1983) trailer
 :Maximum Overdrive (1986) trailer
 :Needful Things (1993) trailer
 :Cujo (1983) trailer
 :Children of the Corn (1984) trailer
 :All Dogs Go to Heaven (1989) trailer
-:The Addams Family (1991) trailer
+:Addams Family, The (1991) trailer
 :Ever After A Cinderella Story (1998) trailer
 :Snake Eyes (1998) trailer
-:La First Lovest Rites (1997) trailer
+:First Love, Last Rites (1997) trailer
 :Safe Men (1998) trailer
-:The Saltmen of Tibet (1997) trailer
+:Saltmen of Tibet, The (1997) trailer
 :Atlantic City (1980) trailer
 :Autumn Sonata (Hstsonaten ) (1978) trailer
 :Who's Afraid of Virginia Woolf? (1966) trailer
 :Adventures in Babysitting (1987) trailer
 :Weird Science (1985) trailer
 :Doctor Dolittle (1967) trailer
-:The Nutty Professor (1963) trailer
+:Nutty Professor, The (1963) trailer
 :Charlotte's Web (1973) trailer
 :Watership Down (1978) trailer
-:The Secret of NIMH (1982) trailer
-:The Dark Crystal (1982) trailer
-:A American Tailn (1986) trailer
-:A American Tail Fievel Goes Westn (1991) trailer
+:Secret of NIMH, The (1982) trailer
+:Dark Crystal, The (1982) trailer
+:American Tail, An (1986) trailer
+:American Tail Fievel Goes West, An (1991) trailer
 :Legend (1985) trailer
 :Sixteen Candles (1984) trailer
 :Pretty in Pink (1986) trailer
 :St. Elmo's Fire (1985) trailer
-:The Clan of the Cave Bear (1986) trailer
+:Clan of the Cave Bear, The (1986) trailer
 :House (1986) trailer
 :House II The Second Story (1987) trailer
-:The Gods Must Be Crazy (1980) trailer
-:The Gods Must Be Crazy II (1989) trailer
+:Gods Must Be Crazy, The (1980) trailer
+:Gods Must Be Crazy II, The (1989) trailer
 :Air Bud Golden Receiver (1998) trailer
-:The Avengers (1998) trailer
+:Avengers, The (1998) trailer
 :How Stella Got Her Groove Back (1998) trailer
-:The Slums of Beverly Hills (1998) trailer
-:The Best Man (Il Testimone dello sposo) (1997) trailer
-:The Chambermaid on the Titanic (1998) trailer
+:Slums of Beverly Hills, The (1998) trailer
+:Best Man, The (Il Testimone dello sposo) (1997) trailer
+:Chambermaid on the Titanic, The (1998) trailer
 :Henry Portrait of a Serial Killer, Part 2 (1996) trailer
 :Henry Portrait of a Serial Killer (1990) trailer
 :Rosemary's Baby (1968) trailer
-:The NeverEnding Story (1984) trailer
-:The NeverEnding Story II The Next Chapter (1990) trailer
+:NeverEnding Story, The (1984) trailer
+:NeverEnding Story II The Next Chapter, The (1990) trailer
 :Attack of the Killer Tomatoes! (1980) trailer
 :Surf Nazis Must Die (1987) trailer
 :Your Friends and Neighbors (1998) trailer
@@ -2101,8 +2101,8 @@
 :Dead Man on Campus (1998) trailer
 :Wrongfully Accused (1998) trailer
 :Next Stop, Wonderland (1998) trailer
-:The Strike! (a.k.a. All I Wanna Do Hairy Bird) (1998) trailer
-:The Navigator A Mediaeval Odyssey (1988) trailer
+:Strike! (a.k.a. All I Wanna Do, The Hairy Bird) (1998) trailer
+:Navigator A Mediaeval Odyssey, The (1988) trailer
 :Beetlejuice (1988) trailer
 :Dj Vu (1997) trailer
 :Rope (1948) trailer
@@ -2111,54 +2111,54 @@
 :Topaz (1969) trailer
 :Torn Curtain (1966) trailer
 :Marnie (1964) trailer
-:The Wrong Man (1956) trailer
-:The Man Who Knew Too Much (1956) trailer
-:The Trouble with Harry (1955) trailer
+:Wrong Man, The (1956) trailer
+:Man Who Knew Too Much, The (1956) trailer
+:Trouble with Harry, The (1955) trailer
 :I Confess (1953) trailer
 :Strangers on a Train (1951) trailer
 :Stage Fright (1950) trailer
 :54 (1998) trailer
 :I Married A Strange Person (1997) trailer
 :Why Do Fools Fall In Love? (1998) trailer
-:A Merry War (1997) trailer
+:Merry War, A (1997) trailer
 :See the Sea (Regarde la mer) (1997) trailer
 :Willow (1988) trailer
-:The Untouchables (1987) trailer
+:Untouchables, The (1987) trailer
 :Dirty Work (1998) trailer
 :Knock Off (1998) trailer
 :Firelight (1997) trailer
 :Modulations (1998) trailer
 :Phoenix (1998) trailer
 :Under Capricorn (1949) trailer
-:The Paradine Case (1947) trailer
+:Paradine Case, The (1947) trailer
 :Lifeboat (1944) trailer
 :Shadow of a Doubt (1943) trailer
 :Saboteur (1942) trailer
 :Mr. & Mrs. Smith (1941) trailer
 :Suspicion (1941) trailer
 :Jamaica Inn (1939) trailer
-:The Lady Vanishes (1938) trailer
+:Lady Vanishes, The (1938) trailer
 :Young and Innocent (1937) trailer
 :Sabotage (1936) trailer
 :Secret Agent (1936) trailer
-:The Man Who Knew Too Much (1934) trailer
+:Man Who Knew Too Much, The (1934) trailer
 :Waltzes from Vienna (1933) trailer
 :Number Seventeen (1932) trailer
 :Rich and Strange (1932) trailer
-:The Skin Game (1931) trailer
+:Skin Game, The (1931) trailer
 :Elstree Calling (1930) trailer
 :Juno and Paycock (1930) trailer
 :Murder! (1930) trailer
-:The Manxman (1929) trailer
+:Manxman, The (1929) trailer
 :Blackmail (1929) trailer
 :Champagne (1928) trailer
-:The Farmer's Wife (1928) trailer
+:Farmer's Wife, The (1928) trailer
 :Downhill (1927) trailer
 :Easy Virtue (1927) trailer
-:The Ring (1927) trailer
-:The Lodger (1926) trailer
-:The Mountain Eagle (1926) trailer
-:The Pleasure Garden (1925) trailer
+:Ring, The (1927) trailer
+:Lodger, The (1926) trailer
+:Mountain Eagle, The (1926) trailer
+:Pleasure Garden, The (1925) trailer
 :Always Tell Your Wife (1923) trailer
 :Rounders (1998) trailer
 :Cube (1997) trailer
@@ -2173,14 +2173,14 @@
 :Class (1983) trailer
 :Grandview, U.S.A. (1984) trailer
 :Broadcast News (1987) trailer
-:The Allnighter (1987) trailer
+:Allnighter, The (1987) trailer
 :Working Girl (1988) trailer
 :Stars and Bars (1988) trailer
 :Married to the Mob (1988) trailer
 :Say Anything... (1989) trailer
 :My Blue Heaven (1990) trailer
 :Men Don't Leave (1990) trailer
-:The Cabinet of Dr. Ramirez (1991) trailer
+:Cabinet of Dr. Ramirez, The (1991) trailer
 :Hero (1992) trailer
 :Toys (1992) trailer
 :Choices (1981) trailer
@@ -2192,44 +2192,44 @@
 :Wisdom (1986) trailer
 :One Crazy Summer (1986) trailer
 :About Last Night... (1986) trailer
-:The Seventh Sign (1988) trailer
+:Seventh Sign, The (1988) trailer
 :We're No Angels (1989) trailer
 :Nothing But Trouble (1991) trailer
-:The Butcher's Wife (1991) trailer
+:Butcher's Wife, The (1991) trailer
 :Mortal Thoughts (1991) trailer
-:A Few Good Men (1992) trailer
+:Few Good Men, A (1992) trailer
 :Indecent Proposal (1993) trailer
-:A Century of Cinema (1994) trailer
+:Century of Cinema, A (1994) trailer
 :Permanent Midnight (1998) trailer
 :One True Thing (1998) trailer
 :Rush Hour (1998) trailer
 :Lilian's Story (1995) trailer
 :Six-String Samurai (1998) trailer
-:A Soldier's Daughter Never Cries (1998) trailer
+:Soldier's Daughter Never Cries, A (1998) trailer
 :Somewhere in the City (1997) trailer
 :Ronin (1998) trailer
 :Urban Legend (1998) trailer
 :Clay Pigeons (1998) trailer
 :Monument Ave. (1998) trailer
 :Pecker (1998) trailer
-:The Sheltering Sky (1990) trailer
+:Sheltering Sky, The (1990) trailer
 :Bandit Queen (1994) trailer
 :If.... (1968) trailer
-:The Fiendish Plot of Dr. Fu Manchu (1980) trailer
+:Fiendish Plot of Dr. Fu Manchu, The (1980) trailer
 :Them! (1954) trailer
-:The Thing (1982) trailer
-:The Player (1992) trailer
+:Thing, The (1982) trailer
+:Player, The (1992) trailer
 :Stardust Memories (1980) trailer
 :Edward Scissorhands (1990) trailer
 :Overnight Delivery (1996) trailer
 :Shadrach (1998) trailer
 :Antz (1998) trailer
-:The Impostors (1998) trailer
-:A Night at the Roxbury (1998) trailer
+:Impostors, The (1998) trailer
+:Night at the Roxbury, A (1998) trailer
 :What Dreams May Come (1998) trailer
 :Strangeland (1998) trailer
-:The Battle of the Sexes (1959) trailer
-:The Producers (1968) trailer
+:Battle of the Sexes, The (1959) trailer
+:Producers, The (1968) trailer
 :History of the World Part I (1981) trailer
 :My Cousin Vinny (1992) trailer
 :Nashville (1975) trailer
@@ -2238,21 +2238,21 @@
 :Holy Man (1998) trailer
 :One Tough Cop (1998) trailer
 :Detroit 9000 (1973) trailer
-:The Inheritors (Die Siebtelbauern) (1998) trailer
-:The Mighty (1998) trailer
+:Inheritors, The (Die Siebtelbauern) (1998) trailer
+:Mighty, The (1998) trailer
 :2010 (1984) trailer
 :Children of a Lesser God (1986) trailer
-:The Elephant Man (1980) trailer
+:Elephant Man, The (1980) trailer
 :Beloved (1998) trailer
 :Bride of Chucky (1998) trailer
 :Practical Magic (1998) trailer
-:The Alarmist (1997) trailer
+:Alarmist, The (1997) trailer
 :Happiness (1998) trailer
 :Reach the Rock (1997) trailer
 :Apt Pupil (1998) trailer
 :Pleasantville (1998) trailer
 :Soldier (1998) trailer
-:The Cruise (1998) trailer
+:Cruise, The (1998) trailer
 :Life Is Beautiful (La Vita  bella) (1997) trailer
 :Orgazmo (1997) trailer
 :Shattered Image (1998) trailer
@@ -2263,8 +2263,8 @@
 :Living Out Loud (1998) trailer
 :Belly (1998) trailer
 :Gods and Monsters (1998) trailer
-:The Siege (1998) trailer
-:The Waterboy (1998) trailer
+:Siege, The (1998) trailer
+:Waterboy, The (1998) trailer
 :Elizabeth (1998) trailer
 :Velvet Goldmine (1998) trailer
 :I Still Know What You Did Last Summer (1998) trailer
@@ -2272,24 +2272,24 @@
 :Meet Joe Black (1998) trailer
 :Dancing at Lughnasa (1998) trailer
 :Hard Core Logo (1996) trailer
-:The Naked Man (1998) trailer
+:Naked Man, The (1998) trailer
 :Runaway Train (1985) trailer
 :Desert Bloom (1986) trailer
-:The Stepford Wives (1975) trailer
-:The Pope of Greenwich Village (1984) trailer
+:Stepford Wives, The (1975) trailer
+:Pope of Greenwich Village, The (1984) trailer
 :Sid and Nancy (1986) trailer
 :Mona Lisa (1986) trailer
 :Heart Condition (1990) trailer
 :Nights of Cabiria (Le Notti di Cabiria) (1957) trailer
-:The Big Chill (1983) trailer
+:Big Chill, The (1983) trailer
 :Enemy of the State (1998) trailer
-:The Rugrats Movie (1998) trailer
-:A Bug's Life (1998) trailer
+:Rugrats Movie, The (1998) trailer
+:Bug's Life, A (1998) trailer
 :Celebrity (1998) trailer
 :Central Station (Central do Brasil) (1998) trailer
 :Savior (1998) trailer
 :Waking Ned Devine (1998) trailer
-:The Celebration (Festen) (1998) trailer
+:Celebration, The (Festen) (1998) trailer
 :Pink Flamingos (1972) trailer
 :Glen or Glenda (1953) trailer
 :Godzilla (Gojira) (1954) trailer
@@ -2299,13 +2299,13 @@
 :King Kong (1976) trailer
 :King Kong Lives (1986) trailer
 :Desperately Seeking Susan (1985) trailer
-:The Emerald Forest (1985) trailer
+:Emerald Forest, The (1985) trailer
 :Fletch (1985) trailer
 :Fletch Lives (1989) trailer
 :Red Sonja (1985) trailer
 :Gung Ho (1986) trailer
-:The Money Pit (1986) trailer
-:A View to a Kill (1985) trailer
+:Money Pit, The (1986) trailer
+:View to a Kill, A (1985) trailer
 :Lifeforce (1985) trailer
 :Police Academy (1984) trailer
 :Police Academy 2 Their First Assignment (1985) trailer
@@ -2320,10 +2320,10 @@
 :Steam The Turkish Bath (Hamam) (1997) trailer
 :Psycho (1998) trailer
 :Little Voice (1998) trailer
-:A Simple Plan (1998) trailer
+:Simple Plan, A (1998) trailer
 :Jack Frost (1998) trailer
 :Star Trek Insurrection (1998) trailer
-:The Prince of Egypt (1998) trailer
+:Prince of Egypt, The (1998) trailer
 :Rushmore (1998) trailer
 :Shakespeare in Love (1998) trailer
 :Mass Appeal (1984) trailer
@@ -2334,7 +2334,7 @@
 :Rambo First Blood Part II (1985) trailer
 :First Blood (1982) trailer
 :Rambo III (1988) trailer
-:The Jewel of the Nile (1985) trailer
+:Jewel of the Nile, The (1985) trailer
 :Romancing the Stone (1984) trailer
 :Cocoon (1985) trailer
 :Cocoon The Return (1988) trailer
@@ -2349,20 +2349,20 @@
 :Heartburn (1986) trailer
 :Nothing in Common (1986) trailer
 :Extremities (1986) trailer
-:The Karate Kid (1984) trailer
-:The Karate Kid, Part II (1986) trailer
-:The Karate Kid III (1989) trailer
+:Karate Kid, The (1984) trailer
+:Karate Kid, Part II, The (1986) trailer
+:Karate Kid III, The (1989) trailer
 :Christmas Vacation (1989) trailer
 :You've Got Mail (1998) trailer
-:The General (1998) trailer
-:The Theory of Flight (1998) trailer
-:The Thin Red Line (1998) trailer
-:The Faculty (1998) trailer
+:General, The (1998) trailer
+:Theory of Flight, The (1998) trailer
+:Thin Red Line, The (1998) trailer
+:Faculty, The (1998) trailer
 :Mighty Joe Young (1998) trailer
 :Mighty Joe Young (1949) trailer
 :Patch Adams (1998) trailer
 :Stepmom (1998) trailer
-:A Civil Action (1998) trailer
+:Civil Action, A (1998) trailer
 :Down in the Delta (1998) trailer
 :Hurlyburly (1998) trailer
 :Tea with Mussolini (1999) trailer
@@ -2370,7 +2370,7 @@
 :Outside Ozona (1998) trailer
 :Affliction (1997) trailer
 :Another Day in Paradise (1998) trailer
-:The Hi-Lo Country (1998) trailer
+:Hi-Lo Country, The (1998) trailer
 :Hilary and Jackie (1998) trailer
 :Playing by Heart (1998) trailer
 :24 7 Twenty Four Seven (1997) trailer
@@ -2378,32 +2378,32 @@
 :In Dreams (1999) trailer
 :Varsity Blues (1999) trailer
 :Virus (1999) trailer
-:The Garbage Pail Kids Movie (1987) trailer
+:Garbage Pail Kids Movie, The (1987) trailer
 :Howard the Duck (1986) trailer
-:The Gate (1987) trailer
-:The Gate II Trespassers (1990) trailer
-:The Boy Who Could Fly (1986) trailer
-:The Fly (1958) trailer
-:The Fly (1986) trailer
-:The Fly II (1989) trailer
+:Gate, The (1987) trailer
+:Gate II Trespassers, The (1990) trailer
+:Boy Who Could Fly, The (1986) trailer
+:Fly, The (1958) trailer
+:Fly, The (1986) trailer
+:Fly II, The (1989) trailer
 :Running Scared (1986) trailer
 :Armed and Dangerous (1986) trailer
-:The Texas Chainsaw Massacre (1974) trailer
-:The Texas Chainsaw Massacre 2 (1986) trailer
+:Texas Chainsaw Massacre, The (1974) trailer
+:Texas Chainsaw Massacre 2, The (1986) trailer
 :Leatherface Texas Chainsaw Massacre III (1990) trailer
-:The Return of the Texas Chainsaw Massacre (1994) trailer
+:Return of the Texas Chainsaw Massacre, The (1994) trailer
 :Ruthless People (1986) trailer
 :Trick or Treat (1986) trailer
 :Deadly Friend (1986) trailer
 :Belizaire the Cajun (1986) trailer
-:The Name of the Rose (1986) trailer
+:Name of the Rose, The (1986) trailer
 :Jumpin' Jack Flash (1986) trailer
 :Peggy Sue Got Married (1986) trailer
 :Crocodile Dundee (1986) trailer
 :Crocodile Dundee II (1988) trailer
 :Tough Guys (1986) trailer
 :Soul Man (1986) trailer
-:The Color of Money (1986) trailer
+:Color of Money, The (1986) trailer
 :52 Pick-Up (1986) trailer
 :Heartbreak Ridge (1986) trailer
 :Firewalker (1986) trailer
@@ -2412,7 +2412,7 @@
 :Dry Cleaning (Nettoyage  sec) (1997) trailer
 :My Name Is Joe (1998) trailer
 :Still Crazy (1998) trailer
-:The Day of the Beast (El Da de la bestia) (1995) trailer
+:Day of the Beast, The (El Da de la bestia) (1995) trailer
 :Tinseltown (1998) trailer
 :She's All That (1999) trailer
 :24-hour Woman (1998) trailer
@@ -2422,9 +2422,9 @@
 :Payback (1999) trailer
 :Simply Irresistible (1999) trailer
 :20 Dates (1998) trailer
-:The Harmonists (1997) trailer
-:The Last Days (1998) trailer
-:The Fantastic Planet (La Plante sauvage) (1973) trailer
+:Harmonists, The (1997) trailer
+:Last Days, The (1998) trailer
+:Fantastic Planet, The (La Plante sauvage) (1973) trailer
 :Blast from the Past (1999) trailer
 :Message in a Bottle (1999) trailer
 :My Favorite Martian (1999) trailer
@@ -2432,16 +2432,16 @@
 :Jawbreaker (1999) trailer
 :October Sky (1999) trailer
 :Office Space (1999) trailer
-:The Apple (Sib) (1998) trailer
+:Apple, The (Sib) (1998) trailer
 :200 Cigarettes (1999) trailer
 :8MM (1999) trailer
-:The Other Sister (1999) trailer
+:Other Sister, The (1999) trailer
 :Breakfast of Champions (1999) trailer
-:The Breaks (1999) trailer
+:Breaks, The (1999) trailer
 :Eight Days a Week (1997) trailer
 :Just the Ticket (1999) trailer
-:The Long Goodbye (1973) trailer
-:The Ballad of Narayama (Narayama Bushiko) (1982) trailer
+:Long Goodbye, The (1973) trailer
+:Ballad of Narayama, The (Narayama Bushiko) (1982) trailer
 :Pet Sematary (1989) trailer
 :Pet Sematary II (1992) trailer
 :Children of the Corn II The Final Sacrifice (1993) trailer
@@ -2453,7 +2453,7 @@
 :Airport 1975 (1974) trailer
 :Airport '77 (1977) trailer
 :Rollercoaster (1977) trailer
-:The Towering Inferno (1974) trailer
+:Towering Inferno, The (1974) trailer
 :Alligator (1980) trailer
 :Meteor (1979) trailer
 :Westworld (1973) trailer
@@ -2465,21 +2465,21 @@
 :Escape from the Planet of the Apes (1971) trailer
 :Avalanche (1978) trailer
 :Earthquake (1974) trailer
-:The Concorde Airport '79 (1979) trailer
+:Concorde Airport '79, The (1979) trailer
 :Beyond the Poseidon Adventure (1979) trailer
 :Dancemaker (1998) trailer
 :Analyze This (1999) trailer
-:The Corruptor (1999) trailer
+:Corruptor, The (1999) trailer
 :Cruel Intentions (1999) trailer
 :Lock, Stock & Two Smoking Barrels (1998) trailer
 :Six Ways to Sunday (1997) trailer
-:The School of Flesh (L' cole de la chair) (1998) trailer
+:School of Flesh, The (L' cole de la chair) (1998) trailer
 :Relax... It's Just Sex (1998) trailer
-:The Deep End of the Ocean (1999) trailer
+:Deep End of the Ocean, The (1999) trailer
 :Harvest (1998) trailer
-:The Rage Carrie 2 (1999) trailer
+:Rage Carrie 2, The (1999) trailer
 :Wing Commander (1999) trailer
-:The Haunting (1963) trailer
+:Haunting, The (1963) trailer
 :Dead Ringers (1988) trailer
 :My Boyfriend's Back (1993) trailer
 :Village of the Damned (1960) trailer
@@ -2488,41 +2488,41 @@
 :Telling You (1998) trailer
 :I Stand Alone (Seul contre tous) (1998) trailer
 :Forces of Nature (1999) trailer
-:The King and I (1999) trailer
+:King and I, The (1999) trailer
 :Ravenous (1999) trailer
 :True Crime (1999) trailer
 :Bandits (1997) trailer
 :Beauty (1998) trailer
-:The Empty Mirror (1999) trailer
-:The King and I (1956) trailer
+:Empty Mirror, The (1999) trailer
+:King and I, The (1956) trailer
 :Doug's 1st Movie (1999) trailer
 :EDtv (1999) trailer
-:The Mod Squad (1999) trailer
+:Mod Squad, The (1999) trailer
 :Among Giants (1998) trailer
-:A Walk on the Moon (1999) trailer
-:The Matrix (1999) trailer
+:Walk on the Moon, A (1999) trailer
+:Matrix, The (1999) trailer
 :10 Things I Hate About You (1999) trailer
 :Tango (1998) trailer
-:The Out-of-Towners (1999) trailer
-:The Dreamlife of Angels (La Vie rve des anges) (1998) trailer
+:Out-of-Towners, The (1999) trailer
+:Dreamlife of Angels, The (La Vie rve des anges) (1998) trailer
 :Love, etc. (1996) trailer
 :Metroland (1997) trailer
-:The Sticky Fingers of Time (1997) trailer
+:Sticky Fingers of Time, The (1997) trailer
 :Following (1998) trailer
 :Go (1999) trailer
 :Never Been Kissed (1999) trailer
 :Twin Dragons (Shuang long hui) (1992) trailer
 :Cookie's Fortune (1999) trailer
 :Foolish (1999) trailer
-:The Lovers of the Arctic Circle (Los Amantes del Crculo Polar) (1998) trailer
+:Lovers of the Arctic Circle, The (Los Amantes del Crculo Polar) (1998) trailer
 :Goodbye, Lover (1999) trailer
 :Life (1999) trailer
 :Clubland (1998) trailer
 :Friends & Lovers (1999) trailer
 :Hideous Kinky (1998) trailer
 :Jeanne and the Perfect Guy (Jeanne et le garon formidable) (1998) trailer
-:The Joyriders (1999) trailer
-:The Monster (Il Mostro) (1994) trailer
+:Joyriders, The (1999) trailer
+:Monster, The (Il Mostro) (1994) trailer
 :Open Your Eyes (Abre los ojos) (1997) trailer
 :Photographer (Fotoamator) (1998) trailer
 :SLC Punk! (1998) trailer
@@ -2530,7 +2530,7 @@
 :Pushing Tin (1999) trailer
 :Election (1999) trailer
 :eXistenZ (1999) trailer
-:A Little Bit of Soul (1998) trailer
+:Little Bit of Soul, A (1998) trailer
 :Mighty Peking Man (Hsing hsing wang) (1977) trailer
 :N (1998) trailer
 :Let it Come Down The Life of Paul Bowles (1998) trailer
@@ -2538,36 +2538,36 @@
 :Idle Hands (1999) trailer
 :Get Real (1998) trailer
 :Heaven (1998) trailer
-:The King of Masks (Bian Lian) (1996) trailer
+:King of Masks, The (Bian Lian) (1996) trailer
 :Three Seasons (1999) trailer
-:The Winslow Boy (1998) trailer
+:Winslow Boy, The (1998) trailer
 :Mildred Pierce (1945) trailer
 :Night of the Comet (1984) trailer
 :Chopping Mall (a.k.a. Killbots) (1986) trailer
 :My Science Project (1985) trailer
 :Dick Tracy (1990) trailer
-:The Mummy (1999) trailer
-:The Castle (1997) trailer
+:Mummy, The (1999) trailer
+:Castle, The (1997) trailer
 :Mascara (1999) trailer
 :This Is My Father (1998) trailer
 :Xiu Xiu The Sent-Down Girl (Tian yu) (1998) trailer
-:A Midsummer Night's Dream (1999) trailer
+:Midsummer Night's Dream, A (1999) trailer
 :Trippin' (1999) trailer
 :After Life (1998) trailer
 :Black Mask (Hak hap) (1996) trailer
 :Edge of Seventeen (1998) trailer
 :Endurance (1998) trailer
 :Star Wars Episode I - The Phantom Menace (1999) trailer
-:The Love Letter (1999) trailer
+:Love Letter, The (1999) trailer
 :Besieged (L' Assedio) (1998) trailer
 :Frogs for Snakes (1998) trailer
-:The Saragossa Manuscript (Rekopis znaleziony w Saragossie) (1965) trailer
-:The Mummy (1932) trailer
-:The Mummy (1959) trailer
-:The Mummy's Curse (1944) trailer
-:The Mummy's Ghost (1944) trailer
-:The Mummy's Hand (1940) trailer
-:The Mummy's Tomb (1942) trailer
+:Saragossa Manuscript, The (Rekopis znaleziony w Saragossie) (1965) trailer
+:Mummy, The (1932) trailer
+:Mummy, The (1959) trailer
+:Mummy's Curse, The (1944) trailer
+:Mummy's Ghost, The (1944) trailer
+:Mummy's Hand, The (1940) trailer
+:Mummy's Tomb, The (1942) trailer
 :Mommie Dearest (1981) trailer
 :Superman (1978) trailer
 :Superman II (1980) trailer
@@ -2579,31 +2579,31 @@
 :House of Frankenstein (1944) trailer
 :Frankenstein (1931) trailer
 :Son of Frankenstein (1939) trailer
-:The Ghost of Frankenstein (1942) trailer
+:Ghost of Frankenstein, The (1942) trailer
 :Frankenstein Meets the Wolf Man (1943) trailer
-:The Curse of Frankenstein (1957) trailer
+:Curse of Frankenstein, The (1957) trailer
 :Son of Dracula (1943) trailer
-:The Wolf Man (1941) trailer
+:Wolf Man, The (1941) trailer
 :Howling II Your Sister Is a Werewolf (1985) trailer
 :Tarantula (1955) trailer
-:The Rocky Horror Picture Show (1975) trailer
-:The Flying Saucer (1950) trailer
+:Rocky Horror Picture Show, The (1975) trailer
+:Flying Saucer, The (1950) trailer
 :It Came from Hollywood (1982) trailer
-:The Thing From Another World (1951) trailer
+:Thing From Another World, The (1951) trailer
 :It Came from Outer Space (1953) trailer
-:The War of the Worlds (1953) trailer
+:War of the Worlds, The (1953) trailer
 :It Came from Beneath the Sea (1955) trailer
 :Invasion of the Body Snatchers (1956) trailer
 :Earth Vs. the Flying Saucers (1956) trailer
 :It Conquered the World (1956) trailer
-:The Mole People (1956) trailer
+:Mole People, The (1956) trailer
 :Swamp Thing (1982) trailer
 :Pork Chop Hill (1959) trailer
 :Run Silent, Run Deep (1958) trailer
 :Notting Hill (1999) trailer
-:The Thirteenth Floor (1999) trailer
+:Thirteenth Floor, The (1999) trailer
 :Eternity and a Day (Mia eoniotita ke mia mera ) (1998) trailer
-:The Loss of Sexual Innocence (1999) trailer
+:Loss of Sexual Innocence, The (1999) trailer
 :Twice Upon a Yesterday (1998) trailer
 :Instinct (1999) trailer
 :Buena Vista Social Club (1999) trailer
@@ -2614,18 +2614,18 @@
 :Limbo (1999) trailer
 :Austin Powers The Spy Who Shagged Me (1999) trailer
 :Taxman (1999) trailer
-:The Red Dwarf (Le Nain rouge) (1998) trailer
-:The Red Violin (Le Violon rouge) (1998) trailer
+:Red Dwarf, The (Le Nain rouge) (1998) trailer
+:Red Violin, The (Le Violon rouge) (1998) trailer
 :Tarzan (1999) trailer
-:The General's Daughter (1999) trailer
+:General's Daughter, The (1999) trailer
 :Get Bruce (1999) trailer
-:A Ideal Husbandn (1999) trailer
-:The Legend of 1900 (Leggenda del pianista sull'oceano) (1998) trailer
+:Ideal Husband, An (1999) trailer
+:Legend of 1900, The (Leggenda del pianista sull'oceano) (1998) trailer
 :Run Lola Run (Lola rennt) (1998) trailer
 :Trekkies (1997) trailer
 :Big Daddy (1999) trailer
-:The Boys (1997) trailer
-:The Dinner Game (Le Dner de cons) (1998) trailer
+:Boys, The (1997) trailer
+:Dinner Game, The (Le Dner de cons) (1998) trailer
 :My Son the Fanatic (1998) trailer
 :Zone 39 (1997) trailer
 :Arachnophobia (1990) trailer
@@ -2633,72 +2633,72 @@
 :Wild Wild West (1999) trailer
 :Summer of Sam (1999) trailer
 :Broken Vessels (1998) trailer
-:The Lovers on the Bridge (Les Amants du Pont-Neuf) (1991) trailer
+:Lovers on the Bridge, The (Les Amants du Pont-Neuf) (1991) trailer
 :Late August, Early September (Fin aot, dbut septembre) (1998) trailer
 :American Pie (1999) trailer
 :Arlington Road (1999) trailer
-:A Autumn Talen (Conte d'automne) (1998) trailer
+:Autumn Tale, An (Conte d'automne) (1998) trailer
 :Muppets From Space (1999) trailer
-:The Blair Witch Project (1999) trailer
+:Blair Witch Project, The (1999) trailer
 :My Life So Far (1999) trailer
 :Eyes Wide Shut (1999) trailer
 :Lake Placid (1999) trailer
-:The Wood (1999) trailer
-:The Velocity of Gary (1998) trailer
+:Wood, The (1999) trailer
+:Velocity of Gary, The (1998) trailer
 :Ghostbusters (1984) trailer
 :Ghostbusters II (1989) trailer
 :Drop Dead Gorgeous (1999) trailer
-:The Haunting (1999) trailer
+:Haunting, The (1999) trailer
 :Inspector Gadget (1999) trailer
 :Trick (1999) trailer
 :Deep Blue Sea (1999) trailer
 :Mystery Men (1999) trailer
 :Runaway Bride (1999) trailer
 :Twin Falls Idaho (1999) trailer
-:The Killing (1956) trailer
+:Killing, The (1956) trailer
 :Killer's Kiss (1955) trailer
 :Spartacus (1960) trailer
 :Lolita (1962) trailer
 :Barry Lyndon (1975) trailer
-:The 400 Blows (Les Quatre cents coups) (1959) trailer
+:400 Blows, The (Les Quatre cents coups) (1959) trailer
 :Jules and Jim (Jules et Jim) (1961) trailer
 :Vibes (1988) trailer
-:The Mosquito Coast (1986) trailer
-:The Golden Child (1986) trailer
+:Mosquito Coast, The (1986) trailer
+:Golden Child, The (1986) trailer
 :Brighton Beach Memoirs (1986) trailer
 :Assassination (1987) trailer
 :Crimes of the Heart (1986) trailer
-:The Color Purple (1985) trailer
-:The Kindred (1986) trailer
+:Color Purple, The (1985) trailer
+:Kindred, The (1986) trailer
 :No Mercy (1986) trailer
 :Mnage (Tenue de soire) (1986) trailer
 :Native Son (1986) trailer
 :Otello (1986) trailer
-:The Mission (1986) trailer
+:Mission, The (1986) trailer
 :Little Shop of Horrors (1986) trailer
-:The Little Shop of Horrors (1960) trailer
+:Little Shop of Horrors, The (1960) trailer
 :Allan Quartermain and the Lost City of Gold (1987) trailer
-:The Morning After (1986) trailer
+:Morning After, The (1986) trailer
 :Radio Days (1987) trailer
 :From the Hip (1987) trailer
 :Outrageous Fortune (1987) trailer
-:The Bedroom Window (1987) trailer
+:Bedroom Window, The (1987) trailer
 :Deadtime Stories (1987) trailer
 :Light of Day (1987) trailer
 :Wanted Dead or Alive (1987) trailer
 :Frances (1982) trailer
 :Plenty (1985) trailer
 :Dick (1999) trailer
-:The Gambler (A Jtkos) (1997) trailer
-:The Iron Giant (1999) trailer
-:The Sixth Sense (1999) trailer
-:The Thomas Crown Affair (1999) trailer
-:The Thomas Crown Affair (1968) trailer
-:The Acid House (1998) trailer
-:The Adventures of Sebastian Cole (1998) trailer
+:Gambler, The (A Jtkos) (1997) trailer
+:Iron Giant, The (1999) trailer
+:Sixth Sense, The (1999) trailer
+:Thomas Crown Affair, The (1999) trailer
+:Thomas Crown Affair, The (1968) trailer
+:Acid House, The (1998) trailer
+:Adventures of Sebastian Cole, The (1998) trailer
 :Illuminata (1998) trailer
 :Stiff Upper Lips (1998) trailer
-:The Yards (1999) trailer
+:Yards, The (1999) trailer
 :Bowfinger (1999) trailer
 :Brokedown Palace (1999) trailer
 :Detroit Rock City (1999) trailer
@@ -2709,20 +2709,20 @@
 :Cobra (1925) trailer
 :Never Talk to Strangers (1995) trailer
 :Heaven Can Wait (1978) trailer
-:The Raven (1963) trailer
-:The Tingler (1959) trailer
+:Raven, The (1963) trailer
+:Tingler, The (1959) trailer
 :Pit and the Pendulum (1961) trailer
-:The Tomb of Ligeia (1965) trailer
-:The Masque of the Red Death (1964) trailer
+:Tomb of Ligeia, The (1965) trailer
+:Masque of the Red Death, The (1964) trailer
 :Tales of Terror (1962) trailer
 :Haunted Honeymoon (1986) trailer
 :Cat's Eye (1985) trailer
 :And Now for Something Completely Different (1971) trailer
 :Damien Omen II (1978) trailer
-:The Final Conflict (a.k.a. Omen III The Final Conflict) (1981) trailer
+:Final Conflict, The (a.k.a. Omen III The Final Conflict) (1981) trailer
 :Airplane! (1980) trailer
 :Airplane II The Sequel (1982) trailer
-:A American Werewolf in Parisn (1997) trailer
+:American Werewolf in Paris, An (1997) trailer
 :European Vacation (1985) trailer
 :Vacation (1983) trailer
 :Funny Farm (1988) trailer
@@ -2732,8 +2732,8 @@
 :Little Nemo Adventures in Slumberland (1992) trailer
 :Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997) trailer
 :Tequila Sunrise (1988) trailer
-:The Pelican Brief (1993) trailer
-:A Christmas Story (1983) trailer
+:Pelican Brief, The (1993) trailer
+:Christmas Story, A (1983) trailer
 :Mickey Blue Eyes (1999) trailer
 :Teaching Mrs. Tingle (1999) trailer
 :Universal Soldier The Return (1999) trailer
@@ -2742,8 +2742,8 @@
 :Perfect Blue (1997) trailer
 :With Friends Like These... (1998) trailer
 :In Too Deep (1999) trailer
-:The Source (1999) trailer
-:The Bat (1959) trailer
+:Source, The (1999) trailer
+:Bat, The (1959) trailer
 :Iron Eagle (1986) trailer
 :Iron Eagle II (1988) trailer
 :Aces Iron Eagle III (1992) trailer
@@ -2752,18 +2752,18 @@
 :Hamlet (1964) trailer
 :Male and Female (1919) trailer
 :Medicine Man (1992) trailer
-:The Spiders (Die Spinnen, 1. Teil Der Goldene See) (1919) trailer
+:Spiders, The (Die Spinnen, 1. Teil Der Goldene See) (1919) trailer
 :On the Ropes (1999) trailer
 :Rosie (1998) trailer
-:The 13th Warrior (1999) trailer
-:The Astronaut's Wife (1999) trailer
+:13th Warrior, The (1999) trailer
+:Astronaut's Wife, The (1999) trailer
 :Dudley Do-Right (1999) trailer
-:The Muse (1999) trailer
+:Muse, The (1999) trailer
 :Cabaret Balkan (Bure Baruta) (1998) trailer
-:A Dog of Flanders (1999) trailer
-:The Lost Son (1999) trailer
+:Dog of Flanders, A (1999) trailer
+:Lost Son, The (1999) trailer
 :Lucie Aubrac (1997) trailer
-:The Very Thought of You (1998) trailer
+:Very Thought of You, The (1998) trailer
 :Chill Factor (1999) trailer
 :Outside Providence (1999) trailer
 :Bedrooms & Hallways (1998) trailer
@@ -2773,15 +2773,15 @@
 :Stir of Echoes (1999) trailer
 :Best Laid Plans (1999) trailer
 :Black Cat, White Cat (Crna macka, beli macor) (1998) trailer
-:The Minus Man (1999) trailer
+:Minus Man, The (1999) trailer
 :White Boys (1999) trailer
-:The Adventures of Milo and Otis (1986) trailer
+:Adventures of Milo and Otis, The (1986) trailer
 :Only Angels Have Wings (1939) trailer
 :Othello (1952) trailer
 :Queens Logic (1991) trailer
 :Public Access (1993) trailer
 :Saturn 3 (1979) trailer
-:A Soldier's Story (1984) trailer
+:Soldier's Story, A (1984) trailer
 :Communion (a.k.a. Alice, Sweet Alice/Holy Terror) (1977) trailer
 :Don't Look in the Basement! (1973) trailer
 :Nightmares (1983) trailer
@@ -2792,18 +2792,18 @@
 :Blue Streak (1999) trailer
 :For Love of the Game (1999) trailer
 :Caligula (1980) trailer
-:A Hard Day's Night (1964) trailer
+:Hard Day's Night, A (1964) trailer
 :Splendor (1999) trailer
 :Sugar Town (1999) trailer
-:The Buddy Holly Story (1978) trailer
+:Buddy Holly Story, The (1978) trailer
 :Fright Night (1985) trailer
 :Fright Night Part II (1989) trailer
-:The Separation (La Sparation) (1994) trailer
+:Separation, The (La Sparation) (1994) trailer
 :Barefoot in the Park (1967) trailer
 :Deliverance (1972) trailer
 :Excalibur (1981) trailer
 :Lulu on the Bridge (1998) trailer
-:The Pajama Game (1957) trailer
+:Pajama Game, The (1957) trailer
 :Sommersby (1993) trailer
 :Thumbelina (1994) trailer
 :Tommy (1975) trailer
@@ -2815,10 +2815,10 @@
 :Mumford (1999) trailer
 :Dog Park (1998) trailer
 :Guinevere (1999) trailer
-:The Adventures of Elmo in Grouchland (1999) trailer
+:Adventures of Elmo in Grouchland, The (1999) trailer
 :Simon Sez (1999) trailer
 :Drive Me Crazy (1999) trailer
-:A Mysterylaska (1999) trailer
+:Mystery, Alaska (1999) trailer
 :Three Kings (1999) trailer
 :Happy, Texas (1999) trailer
 :New Rose Hotel (1998) trailer
@@ -2827,7 +2827,7 @@
 :Napoleon and Samantha (1972) trailer
 :Alvarez Kelly (1966) trailer
 :And the Ship Sails On (E la nave va) (1984) trailer
-:The Dark Half (1993) trailer
+:Dark Half, The (1993) trailer
 :Gulliver's Travels (1939) trailer
 :Monkey Shines (1988) trailer
 :Phantasm (1979) trailer
@@ -2840,9 +2840,9 @@
 :Boys Don't Cry (1999) trailer
 :Five Wives, Three Secretaries and Me (1998) trailer
 :Ennui, L' (1998) trailer
-:The Grandfather (El Abuelo) (1998) trailer
-:The Limey (1999) trailer
-:The Mating Habits of the Earthbound Human (1998) trailer
+:Grandfather, The (El Abuelo) (1998) trailer
+:Limey, The (1999) trailer
+:Mating Habits of the Earthbound Human, The (1998) trailer
 :Molly (1999) trailer
 :Risky Business (1983) trailer
 :Total Recall (1990) trailer
@@ -2854,33 +2854,33 @@
 :Hang 'em High (1967) trailer
 :Citizen's Band (a.k.a. Handle with Care) (1977) trailer
 :Drunken Master (Zui quan) (1979) trailer
-:The Conformist (Il Conformista) (1970) trailer
+:Conformist, The (Il Conformista) (1970) trailer
 :Hairspray (1988) trailer
 :Brief Encounter (1946) trailer
-:The Razor's Edge (1984) trailer
+:Razor's Edge, The (1984) trailer
 :Reds (1981) trailer
 :Return with Honor (1998) trailer
 :Time of the Gypsies (Dom za vesanje) (1989) trailer
 :Days of Heaven (1978) trailer
-:The Fire Within (Le Feu Follet) (1963) trailer
-:A Love Bewitched (El Amor Brujo) (1986) trailer
-:The Lady Eve (1941) trailer
+:Fire Within, The (Le Feu Follet) (1963) trailer
+:Love Bewitched, A (El Amor Brujo) (1986) trailer
+:Lady Eve, The (1941) trailer
 :Sullivan's Travels (1942) trailer
-:The Palm Beach Story (1942) trailer
+:Palm Beach Story, The (1942) trailer
 :Man Facing Southeast (Hombre Mirando al Sudeste) (1986) trailer
 :Niagara (1953) trailer
 :Gilda (1946) trailer
 :South Pacific (1958) trailer
 :Flashdance (1983) trailer
 :Indochine (1992) trailer
-:The Dirty Dozen (1967) trailer
+:Dirty Dozen, The (1967) trailer
 :Mike's Murder (1984) trailer
 :Help! (1965) trailer
 :Goldfinger (1964) trailer
 :From Russia with Love (1963) trailer
 :Dr. No (1962) trailer
-:The Blue Lagoon (1980) trailer
-:A Fistful of Dollars (1964) trailer
+:Blue Lagoon, The (1980) trailer
+:Fistful of Dollars, A (1964) trailer
 :Hard 8 (a.k.a. Sydney, a.k.a. Hard Eight) (1996) trailer
 :Home Alone 2 Lost in New York (1992) trailer
 :Penitentiary (1979) trailer
@@ -2890,29 +2890,29 @@
 :Naturally Native (1998) trailer
 :Fight Club (1999) trailer
 :Beefcake (1999) trailer
-:The Story of Us (1999) trailer
+:Story of Us, The (1999) trailer
 :Fever Pitch (1997) trailer
 :Joe the King (1999) trailer
 :Julien Donkey-Boy (1999) trailer
-:The Omega Code (1999) trailer
-:The Straight Story (1999) trailer
-:The Bad Seed (1956) trailer
+:Omega Code, The (1999) trailer
+:Straight Story, The (1999) trailer
+:Bad Seed, The (1956) trailer
 :Time Bandits (1981) trailer
-:A Man and a Woman (Un Homme et une Femme) (1966) trailer
+:Man and a Woman, A (Un Homme et une Femme) (1966) trailer
 :Fitzcarraldo (1982) trailer
 :All That Jazz (1979) trailer
 :Red Sorghum (Hong Gao Liang) (1987) trailer
 :Crimes and Misdemeanors (1989) trailer
 :Bats (1999) trailer
-:The Best Man (1999) trailer
+:Best Man, The (1999) trailer
 :Bringing Out the Dead (1999) trailer
 :Crazy in Alabama (1999) trailer
 :Three to Tango (1999) trailer
 :Body Shots (1999) trailer
 :Men Cry Bullets (1997) trailer
 :Brother, Can You Spare a Dime? (1975) trailer
-:The Guardian (1990) trailer
-:The Ipcress File (1965) trailer
+:Guardian, The (1990) trailer
+:Ipcress File, The (1965) trailer
 :On Any Sunday (1971) trailer
 :Robocop (1987) trailer
 :Robocop 2 (1990) trailer
@@ -2923,19 +2923,19 @@
 :Live and Let Die (1973) trailer
 :Rawhead Rex (1986) trailer
 :Thunderball (1965) trailer
-:The City (1998) trailer
-:The House on Haunted Hill (1999) trailer
+:City, The (1998) trailer
+:House on Haunted Hill, The (1999) trailer
 :Music of the Heart (1999) trailer
 :Being John Malkovich (1999) trailer
 :Dreaming of Joseph Lees (1998) trailer
 :Man of the Century (1999) trailer
-:The Princess Mononoke (Mononoke Hime) (1997) trailer
-:The Suburbans (1999) trailer
+:Princess Mononoke, The (Mononoke Hime) (1997) trailer
+:Suburbans, The (1999) trailer
 :My Best Fiend (Mein liebster Feind) (1999) trailer
 :Train of Life (Train De Vie) (1998) trailer
-:The Bachelor (1999) trailer
-:The Bone Collector (1999) trailer
-:The Insider (1999) trailer
+:Bachelor, The (1999) trailer
+:Bone Collector, The (1999) trailer
+:Insider, The (1999) trailer
 :American Movie (1999) trailer
 :Last Night (1998) trailer
 :Portraits Chinois (1996) trailer
@@ -2950,24 +2950,24 @@
 :Re-Animator (1985) trailer
 :Drugstore Cowboy (1989) trailer
 :Falling Down (1993) trailer
-:The Funhouse (1981) trailer
-:The General (1927) trailer
+:Funhouse, The (1981) trailer
+:General, The (1927) trailer
 :My Best Girl (1927) trailer
 :Piranha (1978) trailer
 :Rough Night in Jericho (1967) trailer
 :Slaughterhouse (1987) trailer
 :Slaughterhouse 2 (1988) trailer
-:The Taming of the Shrew (1967) trailer
+:Taming of the Shrew, The (1967) trailer
 :Nighthawks (1981) trailer
 :Yojimbo (1961) trailer
 :Repossessed (1990) trailer
-:The Omega Man (1971) trailer
+:Omega Man, The (1971) trailer
 :Spaceballs (1987) trailer
 :Robin Hood (1973) trailer
 :Mister Roberts (1955) trailer
 :Quest for Fire (1981) trailer
 :Little Big Man (1970) trailer
-:A Face in the Crowd (1957) trailer
+:Face in the Crowd, A (1957) trailer
 :Trading Places (1983) trailer
 :Meatballs (1979) trailer
 :Meatballs Part II (1984) trailer
@@ -2975,34 +2975,34 @@
 :Meatballs 4 (1992) trailer
 :Dead Again (1991) trailer
 :Peter's Friends (1992) trailer
-:The Incredibly True Adventure of Two Girls in Love (1995) trailer
+:Incredibly True Adventure of Two Girls in Love, The (1995) trailer
 :Experience Preferred... But Not Essential (1982) trailer
 :Under the Rainbow (1981) trailer
 :How I Won the War (1967) trailer
 :Light It Up (1999) trailer
 :Anywhere But Here (1999) trailer
 :Dogma (1999) trailer
-:The Messenger The Story of Joan of Arc (1999) trailer
+:Messenger The Story of Joan of Arc, The (1999) trailer
 :Pokmon The First Movie (1998) trailer
 :Felicia's Journey (1999) trailer
 :Oxygen (1999) trailer
 :Where's Marlowe? (1999) trailer
-:The Ape (1940) trailer
+:Ape, The (1940) trailer
 :British Intelligence (1940) trailer
-:The Commitments (1991) trailer
+:Commitments, The (1991) trailer
 :Holiday Inn (1942) trailer
-:The Longest Day (1962) trailer
+:Longest Day, The (1962) trailer
 :Poison Ivy (1992) trailer
 :Poison Ivy New Seduction (1997) trailer
 :Ten Benny (1997) trailer
 :Tora! Tora! Tora! (1970) trailer
 :Women on the Verge of a Nervous Breakdown (1988) trailer
-:The Verdict (1982) trailer
-:The Effect of Gamma Rays on Man-in-the-Moon Marigolds (1972) trailer
-:The Adventures of Buckaroo Bonzai Across the 8th Dimension (1984) trailer
+:Verdict, The (1982) trailer
+:Effect of Gamma Rays on Man-in-the-Moon Marigolds, The (1972) trailer
+:Adventures of Buckaroo Bonzai Across the 8th Dimension, The (1984) trailer
 :Stand and Deliver (1987) trailer
 :Moonstruck (1987) trailer
-:The Sandpiper (1965) trailer
+:Sandpiper, The (1965) trailer
 :Jeremiah Johnson (1972) trailer
 :Repulsion (1965) trailer
 :Irma la Douce (1963) trailer
@@ -3011,25 +3011,25 @@
 :Mansfield Park (1999) trailer
 :Goodbye, 20th Century (Zbogum na dvadesetiot vek) (1998) trailer
 :Sleepy Hollow (1999) trailer
-:The World Is Not Enough (1999) trailer
+:World Is Not Enough, The (1999) trailer
 :All About My Mother (Todo Sobre Mi Madre) (1999) trailer
 :Home Page (1999) trailer
-:The Living Dead Girl (La Morte Vivante) (1982) trailer
+:Living Dead Girl, The (La Morte Vivante) (1982) trailer
 :March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland) (1934) trailer
 :Scrooged (1988) trailer
 :Harvey (1950) trailer
-:The Bicycle Thief (Ladri di biciclette) (1948) trailer
+:Bicycle Thief, The (Ladri di biciclette) (1948) trailer
 :Matewan (1987) trailer
 :Kagemusha (1980) trailer
 :Chushingura (1962) trailer
 :McCabe & Mrs. Miller (1971) trailer
 :Maurice (1987) trailer
-:The Grapes of Wrath (1940) trailer
+:Grapes of Wrath, The (1940) trailer
 :My Man Godfrey (1957) trailer
-:The Shop Around the Corner (1940) trailer
-:The Natural (1984) trailer
+:Shop Around the Corner, The (1940) trailer
+:Natural, The (1984) trailer
 :Shampoo (1975) trailer
-:A River Runs Through It (1992) trailer
+:River Runs Through It, A (1992) trailer
 :Fatal Attraction (1987) trailer
 :Jagged Edge (1985) trailer
 :Stanley & Iris (1990) trailer
@@ -3037,8 +3037,8 @@
 :Awakenings (1990) trailer
 :Come See the Paradise (1990) trailer
 :Backdraft (1991) trailer
-:The Fisher King (1991) trailer
-:The River (1984) trailer
+:Fisher King, The (1991) trailer
+:River, The (1984) trailer
 :Country (1984) trailer
 :Places in the Heart (1984) trailer
 :'Night Mother (1986) trailer
@@ -3049,118 +3049,118 @@
 :Ride with the Devil (1999) trailer
 :Tumbleweeds (1999) trailer
 :Bay of Blood (Reazione a catena) (1971) trailer
-:The Distinguished Gentleman (1992) trailer
-:The Hitch-Hiker (1953) trailer
+:Distinguished Gentleman, The (1992) trailer
+:Hitch-Hiker, The (1953) trailer
 :Santa Fe Trail (1940) trailer
 :Spring Fever USA (a.k.a. Lauderdale) (1989) trailer
 :Agnes Browne (1999) trailer
-:The End of the Affair (1999) trailer
-:The End of the Affair (1955) trailer
+:End of the Affair, The (1999) trailer
+:End of the Affair, The (1955) trailer
 :Holy Smoke (1999) trailer
-:A Map of the World (1999) trailer
+:Map of the World, A (1999) trailer
 :Sweet and Lowdown (1999) trailer
 :Bonfire of the Vanities (1990) trailer
 :Broadway Damage (1997) trailer
 :Daddy Long Legs (1919) trailer
 :Go West (1925) trailer
-:La Grand Illusion (Grande illusion) (1937) trailer
-:The Great Santini (1979) trailer
-:The James Dean Story (1957) trailer
-:The Sea Wolves (1980) trailer
+:Grand Illusion (Grande illusion, La) (1937) trailer
+:Great Santini, The (1979) trailer
+:James Dean Story, The (1957) trailer
+:Sea Wolves, The (1980) trailer
 :Stealing Home (1988) trailer
 :Tarzan the Fearless (1933) trailer
-:The Three Ages (1923) trailer
-:The Two Jakes (1990) trailer
+:Three Ages, The (1923) trailer
+:Two Jakes, The (1990) trailer
 :U2 Rattle and Hum (1988) trailer
 :Hell in the Pacific (1968) trailer
-:The Glass Bottom Boat (1966) trailer
-:The Cradle Will Rock (1999) trailer
+:Glass Bottom Boat, The (1966) trailer
+:Cradle Will Rock, The (1999) trailer
 :Deuce Bigalow Male Gigolo (1999) trailer
-:The Green Mile (1999) trailer
-:The Cider House Rules (1999) trailer
+:Green Mile, The (1999) trailer
+:Cider House Rules, The (1999) trailer
 :Diamonds (1999) trailer
-:The War Zone (1999) trailer
-:The Bat Whispers (1930) trailer
-:The Last Picture Show (1971) trailer
-:The 7th Voyage of Sinbad (1958) trailer
+:War Zone, The (1999) trailer
+:Bat Whispers, The (1930) trailer
+:Last Picture Show, The (1971) trailer
+:7th Voyage of Sinbad, The (1958) trailer
 :Blood on the Sun (1945) trailer
 :Anna and the King (1999) trailer
 :Bicentennial Man (1999) trailer
 :Stuart Little (1999) trailer
-:The Emperor and the Assassin (Jing ke ci qin wang) (1999) trailer
+:Emperor and the Assassin, The (Jing ke ci qin wang) (1999) trailer
 :Fantasia 2000 (1999) trailer
 :Magnolia (1999) trailer
 :Onegin (1999) trailer
 :Simpatico (1999) trailer
 :Topsy-Turvy (1999) trailer
-:The Alley Cats (1968) trailer
+:Alley Cats, The (1968) trailer
 :Boiling Point (1993) trailer
 :Brenda Starr (1989) trailer
 :Carnal Knowledge (1971) trailer
 :Easy Rider (1969) trailer
-:The Falcon and the Snowman (1984) trailer
+:Falcon and the Snowman, The (1984) trailer
 :Hi-Yo Silver (1940) trailer
 :Room at the Top (1959) trailer
 :Ulysses (Ulisse) (1954) trailer
 :Any Given Sunday (1999) trailer
 :Man on the Moon (1999) trailer
 :Galaxy Quest (1999) trailer
-:The Talented Mr. Ripley (1999) trailer
+:Talented Mr. Ripley, The (1999) trailer
 :Next Friday (1999) trailer
-:The Hurricane (1999) trailer
+:Hurricane, The (1999) trailer
 :Angela's Ashes (1999) trailer
 :Play it to the Bone (1999) trailer
 :Titus (1999) trailer
 :Mr. Death The Rise and Fall of Fred A. Leuchter Jr. (1999) trailer
-:The Third Miracle (1999) trailer
+:Third Miracle, The (1999) trailer
 :Montana (1998) trailer
 :Snow Falling on Cedars (1999) trailer
 :Girl, Interrupted (1999) trailer
 :Trans (1998) trailer
-:The Life and Times of Hank Greenberg (1998) trailer
+:Life and Times of Hank Greenberg, The (1998) trailer
 :My Dog Skip (1999) trailer
 :Supernova (2000) trailer
-:The Quarry (1998) trailer
-:The Terrorist (Malli) (1998) trailer
+:Quarry, The (1998) trailer
+:Terrorist, The (Malli) (1998) trailer
 :Creature (1999) trailer
-:The Way We Were (1973) trailer
+:Way We Were, The (1973) trailer
 :Tess of the Storm Country (1922) trailer
 :Stalag 17 (1953) trailer
-:The Presidio (1988) trailer
+:Presidio, The (1988) trailer
 :Papillon (1973) trailer
 :Pal Joey (1957) trailer
-:The Last Detail (1973) trailer
+:Last Detail, The (1973) trailer
 :Five Easy Pieces (1970) trailer
 :Even Dwarfs Started Small (Auch Zwerge haben klein angefangen) (1971) trailer
 :Dead Calm (1989) trailer
-:The Boys from Brazil (1978) trailer
+:Boys from Brazil, The (1978) trailer
 :Black Sunday (La Maschera Del Demonio) (1960) trailer
 :Against All Odds (1984) trailer
-:The Snows of Kilimanjaro (1952) trailer
+:Snows of Kilimanjaro, The (1952) trailer
 :Loaded Weapon 1 (1993) trailer
-:The Loves of Carmen (1948) trailer
+:Loves of Carmen, The (1948) trailer
 :Fast Times at Ridgemont High (1982) trailer
-:A Cry in the Dark (1988) trailer
+:Cry in the Dark, A (1988) trailer
 :Born to Win (1971) trailer
 :Batman Mask of the Phantasm (1993) trailer
 :American Flyers (1985) trailer
 :Voyage of the Damned (1976) trailer
 :Vampyros Lesbos (Las Vampiras) (1970) trailer
-:A Star Is Born (1937) trailer
+:Star Is Born, A (1937) trailer
 :Poison (1991) trailer
 :Pacific Heights (1990) trailer
 :Night Tide (1961) trailer
-:The Draughtsman's Contract (1982) trailer
+:Draughtsman's Contract, The (1982) trailer
 :Carmen (1984) trailer
-:A Zed & Two Noughts (1985) trailer
+:Zed & Two Noughts, A (1985) trailer
 :Woman in the Dunes (Suna no onna) (1964) trailer
 :Down to You (2000) trailer
 :Hellhounds on My Trail (1999) trailer
 :Not Love, Just Frenzy (Ms que amor, frenes) (1996) trailer
 :Wirey Spindell (1999) trailer
 :Another Man's Poison (1952) trailer
-:The Odessa File (1974) trailer
-:The Saphead (1920) trailer
+:Odessa File, The (1974) trailer
+:Saphead, The (1920) trailer
 :Seven Chances (1925) trailer
 :Smashing Time (1967) trailer
 :Train Ride to Hollywood (1978) trailer
@@ -3169,24 +3169,24 @@
 :Kestrel's Eye (Falkens ga) (1998) trailer
 :Eye of the Beholder (1999) trailer
 :Isn't She Great? (2000) trailer
-:The Big Tease (1999) trailer
-:The Cup (Phrpa) (1999) trailer
+:Big Tease, The (1999) trailer
+:Cup, The (Phrpa) (1999) trailer
 :Santitos (1997) trailer
 :Encino Man (1992) trailer
-:The Goodbye Girl (1977) trailer
+:Goodbye Girl, The (1977) trailer
 :I Am Cuba (Soy Cuba/Ya Kuba) (1964) trailer
 :Malcolm X (1992) trailer
 :Sister Act (1992) trailer
 :Sister Act 2 Back in the Habit (1993) trailer
-:The Hand That Rocks the Cradle (1992) trailer
+:Hand That Rocks the Cradle, The (1992) trailer
 :Alive (1993) trailer
 :Agnes of God (1985) trailer
 :Scent of a Woman (1992) trailer
 :Wayne's World (1992) trailer
 :Wayne's World 2 (1993) trailer
-:A League of Their Own (1992) trailer
+:League of Their Own, A (1992) trailer
 :Patriot Games (1992) trailer
-:The Bodyguard (1992) trailer
+:Bodyguard, The (1992) trailer
 :Death Becomes Her (1992) trailer
 :Far and Away (1992) trailer
 :Howards End (1992) trailer
@@ -3199,29 +3199,29 @@
 :Mariachi, El (1992) trailer
 :Stop! Or My Mom Will Shoot (1992) trailer
 :Forever Young (1992) trailer
-:The Cutting Edge (1992) trailer
+:Cutting Edge, The (1992) trailer
 :Of Mice and Men (1992) trailer
 :Bad Lieutenant (1992) trailer
 :Scream 3 (2000) trailer
 :Single White Female (1992) trailer
-:The Boondock Saints (1999) trailer
+:Boondock Saints, The (1999) trailer
 :Gun Shy (2000) trailer
 :Beloved/Friend (Amigo/Amado) (1999) trailer
 :Gendernauts (1999) trailer
 :Knockout (1999) trailer
-:The Baby (1973) trailer
-:The Brandon Teena Story (1998) trailer
+:Baby, The (1973) trailer
+:Brandon Teena Story, The (1998) trailer
 :Different for Girls (1996) trailer
 :Minnie and Moskowitz (1971) trailer
 :They Might Be Giants (1971) trailer
-:The Beach (2000) trailer
+:Beach, The (2000) trailer
 :Snow Day (2000) trailer
-:The Tigger Movie (2000) trailer
+:Tigger Movie, The (2000) trailer
 :Cotton Mary (1999) trailer
 :Not One Less (Yi ge dou bu neng shao) (1999) trailer
 :Soft Toilet Seats (1999) trailer
 :Trois (2000) trailer
-:The Big Combo (1955) trailer
+:Big Combo, The (1955) trailer
 :Conceiving Ada (1997) trailer
 :Eaten Alive (1976) trailer
 :Raining Stones (1993) trailer
@@ -3230,39 +3230,39 @@
 :Boiler Room (2000) trailer
 :Hanging Up (2000) trailer
 :Pitch Black (2000) trailer
-:The Whole Nine Yards (2000) trailer
+:Whole Nine Yards, The (2000) trailer
 :Beautiful People (1999) trailer
 :Black Tar Heroin The Dark End of the Street (1999) trailer
 :Blue Collar (1978) trailer
 :Bluebeard (1944) trailer
-:The Circus (1928) trailer
+:Circus, The (1928) trailer
 :City Lights (1931) trailer
-:The Flamingo Kid (1984) trailer
-:A Dog's Life (1920) trailer
-:The Kid (1921) trailer
-:The Man from Laramie (1955) trailer
-:The McCullochs (1975) trailer
+:Flamingo Kid, The (1984) trailer
+:Dog's Life, A (1920) trailer
+:Kid, The (1921) trailer
+:Man from Laramie, The (1955) trailer
+:McCullochs, The (1975) trailer
 :Class Reunion (1982) trailer
-:The Big Trees (1952) trailer
+:Big Trees, The (1952) trailer
 :Happy Go Lovely (1951) trailer
 :Reindeer Games (2000) trailer
 :Wonder Boys (2000) trailer
 :Deterrence (1998) trailer
 :Judy Berlin (1999) trailer
 :Mifune (Mifunes sidste sang) (1999) trailer
-:The Waiting Game (2000) trailer
+:Waiting Game, The (2000) trailer
 :3 Strikes (2000) trailer
 :Chain of Fools (2000) trailer
 :Drowning Mona (2000) trailer
-:The Next Best Thing (2000) trailer
+:Next Best Thing, The (2000) trailer
 :What Planet Are You From? (2000) trailer
 :Beyond the Mat (2000) trailer
 :Ghost Dog The Way of the Samurai (1999) trailer
-:The Year My Voice Broke (1987) trailer
+:Year My Voice Broke, The (1987) trailer
 :Splendor in the Grass (1961) trailer
 :My Tutor (1983) trailer
-:The Legend of Lobo (1962) trailer
-:The Killing of Sister George (1968) trailer
+:Legend of Lobo, The (1962) trailer
+:Killing of Sister George, The (1968) trailer
 :Key Largo (1948) trailer
 :Jail Bait (1954) trailer
 :It Happened Here (1961) trailer
@@ -3277,14 +3277,14 @@
 :Charlie, the Lonesome Cougar (1967) trailer
 :Color Me Blood Red (1965) trailer
 :Never Cry Wolf (1983) trailer
-:The Night Visitor (1970) trailer
-:The Perils of Pauline (1947) trailer
-:A Raisin in the Sun (1961) trailer
+:Night Visitor, The (1970) trailer
+:Perils of Pauline, The (1947) trailer
+:Raisin in the Sun, A (1961) trailer
 :Two Thousand Maniacs! (1964) trailer
 :Brown's Requiem (1998) trailer
-:The Closer You Get (2000) trailer
+:Closer You Get, The (2000) trailer
 :Mission to Mars (2000) trailer
-:The Ninth Gate (2000) trailer
+:Ninth Gate, The (2000) trailer
 :Condo Painting (2000) trailer
 :East-West (Est-ouest) (1999) trailer
 :Defending Your Life (1991) trailer
@@ -3293,27 +3293,27 @@
 :Bull Durham (1988) trailer
 :Dog Day Afternoon (1975) trailer
 :American Graffiti (1973) trailer
-:The Asphalt Jungle (1950) trailer
-:The Searchers (1956) trailer
+:Asphalt Jungle, The (1950) trailer
+:Searchers, The (1956) trailer
 :Where Eagles Dare (1969) trailer
-:The Devil's Brigade (1968) trailer
-:The Big Country (1958) trailer
+:Devil's Brigade, The (1968) trailer
+:Big Country, The (1958) trailer
 :Any Number Can Win (Mlodie en sous-sol ) (1963) trailer
 :Betrayed (1988) trailer
 :Bound for Glory (1976) trailer
-:The Bridge at Remagen (1969) trailer
+:Bridge at Remagen, The (1969) trailer
 :Buck and the Preacher (1972) trailer
 :Daughters of the Dust (1992) trailer
 :Destination Moon (1950) trailer
-:The Fantastic Night (La Nuit Fantastique) (1949) trailer
+:Fantastic Night, The (La Nuit Fantastique) (1949) trailer
 :Hangmen Also Die (1943) trailer
-:The Ogre (Der Unhold) (1996) trailer
+:Ogre, The (Der Unhold) (1996) trailer
 :On the Beach (1959) trailer
 :Railroaded! (1947) trailer
 :Slaves to the Underground (1997) trailer
 :Song of Freedom (1936) trailer
 :Big Fella (1937) trailer
-:The Taking of Pelham One Two Three (1974) trailer
+:Taking of Pelham One Two Three, The (1974) trailer
 :Volunteers (1985) trailer
 :JFK (1991) trailer
 :Who's Harry Crumb? (1989) trailer
@@ -3325,28 +3325,28 @@
 :Date with an Angel (1987) trailer
 :Blind Date (1987) trailer
 :Nadine (1987) trailer
-:The Muppet Movie (1979) trailer
-:The Great Muppet Caper (1981) trailer
-:The Muppets Take Manhattan (1984) trailer
+:Muppet Movie, The (1979) trailer
+:Great Muppet Caper, The (1981) trailer
+:Muppets Take Manhattan, The (1984) trailer
 :Sesame Street Presents Follow That Bird (1985) trailer
 :We're Back! A Dinosaur's Story (1993) trailer
 :Baby... Secret of the Lost Legend (1985) trailer
 :Turtle Diary (1985) trailer
 :Raise the Titanic (1980) trailer
 :Titanic (1953) trailer
-:A Night to Remember (1958) trailer
+:Night to Remember, A (1958) trailer
 :Captain Horatio Hornblower (1951) trailer
-:The Carriers Are Waiting (Les Convoyeurs Attendent) (1999) trailer
+:Carriers Are Waiting, The (Les Convoyeurs Attendent) (1999) trailer
 :Erin Brockovich (2000) trailer
 :Final Destination (2000) trailer
 :Soft Fruit (1999) trailer
 :Babymother (1998) trailer
-:The Bear (1988) trailer
+:Bear, The (1988) trailer
 :Impact (1949) trailer
 :Love Is a Many-Splendored Thing (1955) trailer
-:The Mirror (Zerkalo) (1975) trailer
-:The Trial (Le Procs) (1963) trailer
-:The Crimson Pirate (1952) trailer
+:Mirror, The (Zerkalo) (1975) trailer
+:Trial, The (Le Procs) (1963) trailer
+:Crimson Pirate, The (1952) trailer
 :Thelma & Louise (1991) trailer
 :Something for Everyone (1970) trailer
 :...And Justice for All (1979) trailer
@@ -3357,7 +3357,7 @@
 :Mo' Better Blues (1990) trailer
 :Jungle Fever (1991) trailer
 :Coogan's Bluff (1968) trailer
-:The Champ (1979) trailer
+:Champ, The (1979) trailer
 :Creature Comforts (1990) trailer
 :Death Wish (1974) trailer
 :Death Wish II (1982) trailer
@@ -3376,16 +3376,16 @@
 :Bloodsport (1988) trailer
 :Eyes of Laura Mars (1978) trailer
 :Funny Bones (1995) trailer
-:The Good Earth (1937) trailer
+:Good Earth, The (1937) trailer
 :Good Morning, Vietnam (1987) trailer
-:The Good Mother (1988) trailer
+:Good Mother, The (1988) trailer
 :Grumpy Old Men (1993) trailer
 :Guess Who's Coming to Dinner (1967) trailer
 :Romeo Must Die (2000) trailer
 :Here on Earth (2000) trailer
 :Whatever It Takes (2000) trailer
 :Buddy Boy (1999) trailer
-:The Color of Paradise (Rang-e Khoda) (1999) trailer
+:Color of Paradise, The (Rang-e Khoda) (1999) trailer
 :Waking the Dead (1999) trailer
 :Blood and Sand (Sangre y Arena) (1989) trailer
 :Gothic (1986) trailer
@@ -3397,31 +3397,31 @@
 :That's Life! (1986) trailer
 :Heart and Souls (1993) trailer
 :Hud (1963) trailer
-:The Hustler (1961) trailer
+:Hustler, The (1961) trailer
 :Inherit the Wind (1960) trailer
 :Dersu Uzala (1974) trailer
 :Close Encounters of the Third Kind (1977) trailer
 :Horror Hotel (a.k.a. The City of the Dead) (1960) trailer
 :Jonah Who Will Be 25 in the Year 2000 (1976) trailer
 :Retroactive (1997) trailer
-:A Place in the Sun (1951) trailer
+:Place in the Sun, A (1951) trailer
 :Jacob's Ladder (1990) trailer
 :Empire Records (1995) trailer
-:La Bamba (1987) trailer
+:Bamba, La (1987) trailer
 :Ladyhawke (1985) trailer
 :Lucas (1986) trailer
 :High Fidelity (2000) trailer
 :Price of Glory (2000) trailer
-:The Road to El Dorado (2000) trailer
-:The Skulls (2000) trailer
+:Road to El Dorado, The (2000) trailer
+:Skulls, The (2000) trailer
 :Autopsy (Macchie Solari) (1975) trailer
 :Devil Girl From Mars (1954) trailer
 :Dorado, El (1967) trailer
-:The Hideous Sun Demon (1959) trailer
+:Hideous Sun Demon, The (1959) trailer
 :Hook (1991) trailer
 :Horror Express (1972) trailer
 :My Chauffeur (1986) trailer
-:The Son of the Sheik (1926) trailer
+:Son of the Sheik, The (1926) trailer
 :Torso (Corpi Presentano Tracce di Violenza Carnale) (1973) trailer
 :True Grit (1969) trailer
 :Roadside Prophets (1992) trailer
@@ -3436,8 +3436,8 @@
 :Network (1976) trailer
 :No Way Out (1987) trailer
 :North Dallas Forty (1979) trailer
-:The Odd Couple (1968) trailer
-:The Outlaw Josey Wales (1976) trailer
+:Odd Couple, The (1968) trailer
+:Outlaw Josey Wales, The (1976) trailer
 :Black and White (1999) trailer
 :Frequency (2000) trailer
 :Ready to Rumble (2000) trailer
@@ -3446,8 +3446,8 @@
 :Joe Gould's Secret (2000) trailer
 :Me Myself I (2000) trailer
 :Bell, Book and Candle (1958) trailer
-:The Bells (1926) trailer
-:The End of Violence (1997) trailer
+:Bells, The (1926) trailer
+:End of Violence, The (1997) trailer
 :Force 10 from Navarone (1978) trailer
 :How to Stuff a Wild Bikini (1965) trailer
 :Mystery Train (1989) trailer
@@ -3457,18 +3457,18 @@
 :Bachelor Party (1984) trailer
 :Parenthood (1989) trailer
 :Predator (1987) trailer
-:The Prince of Tides (1991) trailer
-:The Postman Always Rings Twice (1981) trailer
+:Prince of Tides, The (1991) trailer
+:Postman Always Rings Twice, The (1981) trailer
 :Smoking/No Smoking (1993) trailer
 :All the Vermeers in New York (1990) trailer
 :Freedom for Us ( nous la libert ) (1931) trailer
-:A Actor's Revengen (Yukinojo Henge) (1963) trailer
+:Actor's Revenge, An (Yukinojo Henge) (1963) trailer
 :28 Days (2000) trailer
 :American Psycho (2000) trailer
 :Keeping the Faith (2000) trailer
 :Where the Money Is (2000) trailer
 :East is East (1999) trailer
-:The Filth and the Fury (2000) trailer
+:Filth and the Fury, The (2000) trailer
 :Passion of Mind (1999) trailer
 :Third World Cop (1999) trailer
 :Coming Apart (1969) trailer
@@ -3479,33 +3479,33 @@
 :Prick Up Your Ears (1987) trailer
 :Auntie Mame (1958) trailer
 :Guys and Dolls (1955) trailer
-:The Hunger (1983) trailer
+:Hunger, The (1983) trailer
 :Marathon Man (1976) trailer
 :Caddyshack (1980) trailer
 :Gossip (2000) trailer
 :Love and Basketball (2000) trailer
 :U-571 (2000) trailer
-:The Virgin Suicides (1999) trailer
+:Virgin Suicides, The (1999) trailer
 :Jennifer 8 (1992) trailer
-:The Law (Le Legge) (1958) trailer
+:Law, The (Le Legge) (1958) trailer
 :Limelight (1952) trailer
 :Phantom Love (Ai No Borei) (1978) trailer
 :Stacy's Knights (1982) trailer
 :Committed (2000) trailer
-:The Crow Salvation (2000) trailer
-:The Flintstones in Viva Rock Vegas (2000) trailer
+:Crow Salvation, The (2000) trailer
+:Flintstones in Viva Rock Vegas, The (2000) trailer
 :Where the Heart Is (2000) trailer
-:The Big Kahuna (2000) trailer
+:Big Kahuna, The (2000) trailer
 :Bossa Nova (1999) trailer
 :Smiling Fish and Goat on Fire (1999) trailer
-:The Idiots (Idioterne) (1998) trailer
-:The Last September (1999) trailer
+:Idiots, The (Idioterne) (1998) trailer
+:Last September, The (1999) trailer
 :Time Code (2000) trailer
 :Carnosaur (1993) trailer
 :Carnosaur 2 (1995) trailer
 :Carnosaur 3 Primal Species (1996) trailer
 :Defying Gravity (1997) trailer
-:The Hidden (1987) trailer
+:Hidden, The (1987) trailer
 :Two Moon Juction (1988) trailer
 :Gladiator (2000) trailer
 :I Dreamed of Africa (2000) trailer
@@ -3514,12 +3514,12 @@
 :Jails, Hospitals & Hip-Hop (2000) trailer
 :Black Tights (Les Collants Noirs) (1960) trailer
 :Breathless (1983) trailer
-:The Great Locomotive Chase (1956) trailer
-:The Idolmaker (1980) trailer
+:Great Locomotive Chase, The (1956) trailer
+:Idolmaker, The (1980) trailer
 :Inferno (1980) trailer
-:The King of Marvin Gardens (1972) trailer
+:King of Marvin Gardens, The (1972) trailer
 :Kill, Baby... Kill! (Operazione Paura) (1966) trailer
-:The Lords of Flatbush (1974) trailer
+:Lords of Flatbush, The (1974) trailer
 :Mr. Mom (1983) trailer
 :Time Masters (Les Matres du Temps) (1982) trailer
 :Battlefield Earth (2000) trailer
@@ -3530,9 +3530,9 @@
 :Hamlet (2000) trailer
 :Anchors Aweigh (1945) trailer
 :Blue Hawaii (1961) trailer
-:The Castaway Cowboy (1974) trailer
+:Castaway Cowboy, The (1974) trailer
 :G. I. Blues (1960) trailer
-:The Gay Deceivers (1969) trailer
+:Gay Deceivers, The (1969) trailer
 :Gypsy (1962) trailer
 :King Creole (1958) trailer
 :On the Town (1949) trailer
@@ -3541,49 +3541,49 @@
 :Regret to Inform (1998) trailer
 :Roustabout (1964) trailer
 :Saludos Amigos (1943) trailer
-:The Slipper and the Rose (1976) trailer
+:Slipper and the Rose, The (1976) trailer
 :Things Change (1988) trailer
 :Honeymoon in Vegas (1992) trailer
 :Dinosaur (2000) trailer
 :Loser (2000) trailer
 :Road Trip (2000) trailer
 :Small Time Crooks (2000) trailer
-:The Hollywood Knights (1980) trailer
-:The Myth of Fingerprints (1997) trailer
+:Hollywood Knights, The (1980) trailer
+:Myth of Fingerprints, The (1997) trailer
 :Possession (1981) trailer
-:The Twelve Chairs (1970) trailer
+:Twelve Chairs, The (1970) trailer
 :Mission Impossible 2 (2000) trailer
 :Shanghai Noon (2000) trailer
 :Better Living Through Circuitry (1999) trailer
 :8 1/2 Women (1999) trailer
 :Carnival of Souls (1962) trailer
 :Flying Tigers (1942) trailer
-:The Gold Rush (1925) trailer
-:The House of Exorcism (La Casa dell'esorcismo) (1974) trailer
+:Gold Rush, The (1925) trailer
+:House of Exorcism, The (La Casa dell'esorcismo) (1974) trailer
 :It's in the Water (1998) trailer
 :Monsieur Verdoux (1947) trailer
 :On Her Majesty's Secret Service (1969) trailer
 :Seven Days in May (1964) trailer
-:The Spy Who Loved Me (1977) trailer
+:Spy Who Loved Me, The (1977) trailer
 :Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train) (1998) trailer
 :Vagabond (Sans toit ni loi) (1985) trailer
 :Moonraker (1979) trailer
-:The Man with the Golden Gun (1974) trailer
-:A King in New York (1957) trailer
-:A Woman of Paris (1923) trailer
+:Man with the Golden Gun, The (1974) trailer
+:King in New York, A (1957) trailer
+:Woman of Paris, A (1923) trailer
 :In Old California (1942) trailer
-:The Fighting Seabees (1944) trailer
+:Fighting Seabees, The (1944) trailer
 :Dark Command (1940) trailer
 :Cleo From 5 to 7 (Clo de 5  7) (1962) trailer
 :Big Momma's House (2000) trailer
 :Running Free (2000) trailer
-:The Abominable Snowman (1957) trailer
+:Abominable Snowman, The (1957) trailer
 :American Gigolo (1980) trailer
 :Anguish (Angustia) (1986) trailer
-:The Blood Spattered Bride (La Novia Ensangrentada) (1972) trailer
+:Blood Spattered Bride, The (La Novia Ensangrentada) (1972) trailer
 :City of the Living Dead (Paura nella citt dei morti viventi) (1980) trailer
-:The Endless Summer (1966) trailer
-:The Guns of Navarone (1961) trailer
+:Endless Summer, The (1966) trailer
+:Guns of Navarone, The (1961) trailer
 :Blow-Out (La Grande Bouffe) (1973) trailer
 :Lured (1947) trailer
 :Pandora and the Flying Dutchman (1951) trailer
@@ -3599,7 +3599,7 @@
 :Rent-A-Cop (1988) trailer
 :Romeo and Juliet (1968) trailer
 :Stay Tuned (1992) trailer
-:The Story of G.I. Joe (1945) trailer
+:Story of G.I. Joe, The (1945) trailer
 :Blazing Saddles (1974) trailer
 :Benji (1974) trailer
 :Benji the Hunted (1987) trailer
@@ -3607,13 +3607,13 @@
 :White Christmas (1954) trailer
 :Eraserhead (1977) trailer
 :Baraka (1992) trailer
-:The Man with the Golden Arm (1955) trailer
-:The Decline of Western Civilization (1981) trailer
-:The Decline of Western Civilization Part II The Metal Years (1988) trailer
+:Man with the Golden Arm, The (1955) trailer
+:Decline of Western Civilization, The (1981) trailer
+:Decline of Western Civilization Part II The Metal Years, The (1988) trailer
 :For a Few Dollars More (1965) trailer
 :Magnum Force (1973) trailer
 :Blood Simple (1984) trailer
-:The Fabulous Baker Boys (1989) trailer
+:Fabulous Baker Boys, The (1989) trailer
 :Prizzi's Honor (1985) trailer
 :Flatliners (1990) trailer
 :Light Years (1988) trailer
@@ -3622,14 +3622,14 @@
 :Porky's Revenge (1985) trailer
 :Private School (1983) trailer
 :Class of Nuke 'Em High (1986) trailer
-:The Toxic Avenger (1985) trailer
-:The Toxic Avenger, Part II (1989) trailer
-:The Toxic Avenger Part III The Last Temptation of Toxie (1989) trailer
+:Toxic Avenger, The (1985) trailer
+:Toxic Avenger, Part II, The (1989) trailer
+:Toxic Avenger Part III The Last Temptation of Toxie, The (1989) trailer
 :Night of the Creeps (1986) trailer
 :Predator 2 (1990) trailer
-:The Running Man (1987) trailer
+:Running Man, The (1987) trailer
 :Starman (1984) trailer
-:The Brother from Another Planet (1984) trailer
+:Brother from Another Planet, The (1984) trailer
 :Alien Nation (1988) trailer
 :Mad Max (1979) trailer
 :Mad Max 2 (a.k.a. The Road Warrior) (1981) trailer
@@ -3642,7 +3642,7 @@
 :Action Jackson (1988) trailer
 :Sarafina! (1992) trailer
 :Soapdish (1991) trailer
-:The Long Walk Home (1990) trailer
+:Long Walk Home, The (1990) trailer
 :Clara's Heart (1988) trailer
 :Burglar (1987) trailer
 :Fatal Beauty (1987) trailer
@@ -3659,48 +3659,48 @@
 :Near Dark (1987) trailer
 :One False Move (1991) trailer
 :Shaft (1971) trailer
-:The Conversation (1974) trailer
+:Conversation, The (1974) trailer
 :Cutter's Way (1981) trailer
-:The Fury (1978) trailer
-:The Paper Chase (1973) trailer
+:Fury, The (1978) trailer
+:Paper Chase, The (1973) trailer
 :Prince of the City (1981) trailer
 :Serpico (1973) trailer
-:The Big Carnival (1951) trailer
+:Big Carnival, The (1951) trailer
 :Lonely Are the Brave (1962) trailer
-:The Sugarland Express (1974) trailer
+:Sugarland Express, The (1974) trailer
 :Trouble in Paradise (1932) trailer
 :Big Trouble in Little China (1986) trailer
 :Badlands (1973) trailer
-:The Battleship Potemkin (Bronenosets Potyomkin) (1925) trailer
+:Battleship Potemkin, The (Bronenosets Potyomkin) (1925) trailer
 :Boys and Girls (2000) trailer
 :Shaft (2000) trailer
 :Titan A.E. (2000) trailer
 :Butterfly (La Lengua de las Mariposas) (2000) trailer
 :Jesus' Son (1999) trailer
-:The Match (1999) trailer
+:Match, The (1999) trailer
 :Time Regained (Le Temps Retrouv) (1999) trailer
 :Boricua's Bond (2000) trailer
 :Chicken Run (2000) trailer
 :Me, Myself and Irene (2000) trailer
-:The Patriot (2000) trailer
-:The Adventures of Rocky and Bullwinkle (2000) trailer
-:The Perfect Storm (2000) trailer
-:The Golden Bowl (2000) trailer
+:Patriot, The (2000) trailer
+:Adventures of Rocky and Bullwinkle, The (2000) trailer
+:Perfect Storm, The (2000) trailer
+:Golden Bowl, The (2000) trailer
 :Asylum (1972) trailer
 :Communion (1989) trailer
 :Fun and Fancy Free (1947) trailer
-:The Kentucky Fried Movie (1977) trailer
+:Kentucky Fried Movie, The (1977) trailer
 :Blood In, Blood Out (a.k.a. Bound by Honor) (1993) trailer
 :Daughter of Dr. Jeckyll (1957) trailer
 :F/X (1986) trailer
 :F/X 2 (1992) trailer
-:The Hot Spot (1990) trailer
+:Hot Spot, The (1990) trailer
 :Missing in Action (1984) trailer
 :Missing in Action 2 The Beginning (1985) trailer
 :Braddock Missing in Action III (1988) trailer
 :Thunderbolt and Lightfoot (1974) trailer
 :Dreamscape (1984) trailer
-:The Golden Voyage of Sinbad (1974) trailer
+:Golden Voyage of Sinbad, The (1974) trailer
 :Hatchet For the Honeymoon (Rosso Segno Della Follia) (1969) trailer
 :House Party (1990) trailer
 :House Party 2 (1991) trailer
@@ -3713,20 +3713,20 @@
 :Shaft in Africa (1973) trailer
 :Shaft's Big Score! (1972) trailer
 :Croupier (1998) trailer
-:The Kid (2000) trailer
+:Kid, The (2000) trailer
 :Scary Movie (2000) trailer
 :But I'm a Cheerleader (1999) trailer
 :Shower (Xizhao) (1999) trailer
 :Blowup (1966) trailer
-:The Pawnbroker (1965) trailer
+:Pawnbroker, The (1965) trailer
 :Groove (2000) trailer
 :Footloose (1984) trailer
 :Duel in the Sun (1946) trailer
 :X-Men (2000) trailer
 :Chuck & Buck (2000) trailer
-:The Five Senses (1999) trailer
-:The Wisdom of Crocodiles (a.k.a. Immortality) (2000) trailer
-:The In Crowd (2000) trailer
+:Five Senses, The (1999) trailer
+:Wisdom of Crocodiles, The (a.k.a. Immortality) (2000) trailer
+:In Crowd, The (2000) trailer
 :What Lies Beneath (2000) trailer
 :Pokmon the Movie 2000 (2000) trailer
 :Criminal Lovers (Les Amants Criminels) (1999) trailer
@@ -3744,13 +3744,13 @@
 :Everything You Always Wanted to Know About Sex (1972) trailer
 :Interiors (1978) trailer
 :Love and Death (1975) trailer
-:The Official Story (La Historia Oficial) (1985) trailer
-:The Other Side of Sunday (Sndagsengler) (1996) trailer
+:Official Story, The (La Historia Oficial) (1985) trailer
+:Other Side of Sunday, The (Sndagsengler) (1996) trailer
 :Pot O' Gold (1941) trailer
 :Tampopo (1986) trailer
 :Thomas and the Magic Railroad (2000) trailer
 :Nutty Professor II The Klumps (2000) trailer
-:The Girl on the Bridge (La Fille sur le Pont) (1999) trailer
+:Girl on the Bridge, The (La Fille sur le Pont) (1999) trailer
 :Wonderland (1999) trailer
 :Autumn in New York (2000) trailer
 :Coyote Ugly (2000) trailer
@@ -3761,9 +3761,9 @@
 :Psycho Beach Party (2000) trailer
 :Saving Grace (2000) trailer
 :Black Sabbath (Tre Volti Della Paura, I) (1963) trailer
-:The Brain That Wouldn't Die (1962) trailer
+:Brain That Wouldn't Die, The (1962) trailer
 :Bronco Billy (1980) trailer
-:The Crush (1993) trailer
+:Crush, The (1993) trailer
 :Kelly's Heroes (1970) trailer
 :Phantasm II (1988) trailer
 :Phantasm III Lord of the Dead (1994) trailer
@@ -3777,42 +3777,42 @@
 :Easy Money (1983) trailer
 :Ilsa, She Wolf of the SS (1974) trailer
 :Silent Fall (1994) trailer
-:The Spiral Staircase (1946) trailer
+:Spiral Staircase, The (1946) trailer
 :Whatever Happened to Aunt Alice? (1969) trailer
 :I'm the One That I Want (2000) trailer
-:The Tao of Steve (2000) trailer
-:The Tic Code (1998) trailer
+:Tao of Steve, The (2000) trailer
+:Tic Code, The (1998) trailer
 :Aime & Jaguar (1999) trailer
-:A Affair of Loven (Une Liaison Pornographique) (1999) trailer
+:Affair of Love, An (Une Liaison Pornographique) (1999) trailer
 :Autumn Heart (1999) trailer
 :Bless the Child (2000) trailer
 :Cecil B. Demented (2000) trailer
-:The Eyes of Tammy Faye (2000) trailer
-:The Opportunists (1999) trailer
-:The Replacements (2000) trailer
+:Eyes of Tammy Faye, The (2000) trailer
+:Opportunists, The (1999) trailer
+:Replacements, The (2000) trailer
 :About Adam (2000) trailer
-:The Cell (2000) trailer
+:Cell, The (2000) trailer
 :Godzilla 2000 (Gojira ni-sen mireniamu) (1999) trailer
-:The Original Kings of Comedy (2000) trailer
+:Original Kings of Comedy, The (2000) trailer
 :Sunset Strip (2000) trailer
 :All the Rage (a.k.a. It's the Rage) (1999) trailer
-:The Naked Gun From the Files of Police Squad! (1988) trailer
-:The Naked Gun 2 1/2 The Smell of Fear (1991) trailer
+:Naked Gun From the Files of Police Squad!, The (1988) trailer
+:Naked Gun 2 1/2 The Smell of Fear, The (1991) trailer
 :Our Town (1940) trailer
 :Shane (1953) trailer
-:La Suddenlyst Summer (1959) trailer
+:Suddenly, Last Summer (1959) trailer
 :Cat Ballou (1965) trailer
-:A Couch in New York (1996) trailer
-:The Devil Rides Out (1968) trailer
+:Couch in New York, A (1996) trailer
+:Devil Rides Out, The (1968) trailer
 :Jerry & Tom (1998) trailer
 :Supergirl (1984) trailer
 :X The Unknown (1956) trailer
-:The Art of War (2000) trailer
-:The Ballad of Ramblin' Jack (2000) trailer
+:Art of War, The (2000) trailer
+:Ballad of Ramblin' Jack, The (2000) trailer
 :Bittersweet Motel (2000) trailer
 :Bring It On (2000) trailer
 :Catfish in Black Bean Sauce (2000) trailer
-:The Crew (2000) trailer
+:Crew, The (2000) trailer
 :Love & Sex (2000) trailer
 :Steal This Movie! (2000) trailer
 :Went to Coney Island on a Mission From God... Be Back by Five (1998) trailer
@@ -3823,8 +3823,8 @@
 :Anatomy (Anatomie) (2000) trailer
 :Nurse Betty (2000) trailer
 :Solas (1999) trailer
-:The Watcher (2000) trailer
-:The Way of the Gun (2000) trailer
+:Watcher, The (2000) trailer
+:Way of the Gun, The (2000) trailer
 :Almost Famous (2000) trailer
 :Bait (2000) trailer
 :Circus (2000) trailer
@@ -3832,17 +3832,17 @@
 :Duets (2000) trailer
 :Goya in Bordeaux (Goya en Bodeos) (1999) trailer
 :Urbania (2000) trailer
-:A Uninvited Guestn (2000) trailer
-:The Specials (2000) trailer
+:Uninvited Guest, An (2000) trailer
+:Specials, The (2000) trailer
 :Under Suspicion (2000) trailer
-:The Prince of Central Park (1999) trailer
+:Prince of Central Park, The (1999) trailer
 :Urban Legends Final Cut (2000) trailer
 :Woman on Top (2000) trailer
 :Dancer in the Dark (2000) trailer
 :Best in Show (2000) trailer
 :Beautiful (2000) trailer
 :Barenaked in America (1999) trailer
-:The Broken Hearts Club (2000) trailer
+:Broken Hearts Club, The (2000) trailer
 :Girlfight (2000) trailer
 :Remember the Titans (2000) trailer
 :Hellraiser (1987) trailer
@@ -3857,18 +3857,18 @@
 :Voyage to the Bottom of the Sea (1961) trailer
 :Fantastic Voyage (1966) trailer
 :Abbott and Costello Meet Frankenstein (1948) trailer
-:The Bank Dick (1940) trailer
-:The Creature From the Black Lagoon (1954) trailer
-:The Giant Gila Monster (1959) trailer
-:The Invisible Man (1933) trailer
-:The Killer Shrews (1959) trailer
+:Bank Dick, The (1940) trailer
+:Creature From the Black Lagoon, The (1954) trailer
+:Giant Gila Monster, The (1959) trailer
+:Invisible Man, The (1933) trailer
+:Killer Shrews, The (1959) trailer
 :Kronos (1957) trailer
 :Kronos (1973) trailer
-:The Phantom of the Opera (1943) trailer
+:Phantom of the Opera, The (1943) trailer
 :Runaway (1984) trailer
-:The Slumber Party Massacre (1982) trailer
-:The Slumber Party Massacre II (1987) trailer
-:The Slumber Party Massacre III (1990) trailer
+:Slumber Party Massacre, The (1982) trailer
+:Slumber Party Massacre II, The (1987) trailer
+:Slumber Party Massacre III, The (1990) trailer
 :Sorority House Massacre (1986) trailer
 :Sorority House Massacre II (1990) trailer
 :Bamboozled (2000) trailer
@@ -3880,4 +3880,4 @@
 :Requiem for a Dream (2000) trailer
 :Tigerland (2000) trailer
 :Two Family House (2000) trailer
-:The Contender (2000) trailer
+:Contender, The (2000) trailer
